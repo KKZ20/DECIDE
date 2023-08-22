@@ -137,7 +137,7 @@ $ pip install en_core_web_sm-2.3.1.tar.gz
 To get a quick view on knowledge extraction pipeline, run:
 
 ```shell
-$ cd PATH/TO/DECIDE/Knowledge-Base-Construction-Example/
+$ cd PATH/TO/DECIDE/Knowledge-Extraction-Example/
 $ python example.py
 ```
 
@@ -165,8 +165,7 @@ $ conda activate YOUR_ENV_NAME
 Then, install all the required libraries:
 
 ```shell
-$ cd PATH/TO/DECIDE
-$ pip install -r requirements.txt 
+$ pip install py2neo 
 ```
 
 To get a quick view on knowledge graph Query Examples, run:
