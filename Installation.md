@@ -82,7 +82,7 @@ The results will be generated in `DECIDE/detection_result`.
 After Docker is installed,  change the working directory to `docker` folder in the repository with:
 
 ```shell
-$ cd docker
+$ cd PATH/TO/DECIDE/docker
 ```
 
 Start the docker container with the following command:
