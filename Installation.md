@@ -79,10 +79,10 @@ The results will be generated in `DECIDE/detection_result`.
 
 ### Docker Installation
 
-After Docker is installed,  change the working directory to `docker` folder in the repository with:
+After Docker is installed,  change the working directory to `Docker` folder in the repository with:
 
 ```shell
-$ cd PATH/TO/DECIDE/docker
+$ cd PATH/TO/DECIDE/Docker
 ```
 
 Start the docker container with the following command:
@@ -115,7 +115,7 @@ $ python3 main.py -n gcn
 
 You should see the following output:
 
-<img src="./DECIDE/imgs/test_script.png" alt="Supervised"  />
+<img src="./DECIDE/imgs/script.png" alt="Supervised"  />
 
 ## Knowledge Extraction Examples
 

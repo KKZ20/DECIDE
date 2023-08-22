@@ -58,11 +58,11 @@ In RQ2, we evaluate the quality of our knowledge graph. We present all the sampl
 - `RQ2-ALL.xlsx`: consists 343 version relations sampled from the knowledge graph.
 - `RQ2-Correct.xlsx`: consists 287 correct version relations in the sampled data (287 / 343 = 83.7%).
 - `RQ2-Version_Mismatch.xlsx`: consists 36 incorrect version relations due to the mismatch between a component name and a version number (36 / 56 = 64%).
-- `RQ2-QA_Wrong.xlsx`: consists 15 incorrect version relations due to incorrect predictions from UnifiedQA (15 /36 = 27%).
+- `RQ2-QA_Wrong.xlsx`: consists 15 incorrect version relations due to incorrect predictions from UnifiedQA (15 / 56 = 27%).
 - `RQ2-Post_Wrong.xlsx`: consists 5 incorrect version relations due to the incorrect version knowledge shared in the original SO post (5 / 56 = 9%).
 
 ### RQ3: How accurately can the pre-trained QA model in DECIDE infer compatibility relations between versioned DL components?
-In RQ3, we evaluate the performance of the pre-trained QA model in inferring compatibility relations between versioned DL components. We randomly sampled 360 of the 5,532 queries that the UnifiedQA received to construct the whole knowledge graph, which is in `Artifact_Evaluation/RQ3/data/Q12.log`. We also provide the manually labeled ground truth in `Artifact_Evaluation/RQ3/data/ground_truth.txt`. To compare the model output with the ground truth, run:
+In RQ3, we evaluate the performance of the pre-trained QA model in inferring compatibility relations between versioned DL components. We randomly sampled 360 of the 5,532 queries that the UnifiedQA received to construct the whole knowledge graph, which is in `Experiments/RQ3/data/Q12.log`. We also provide the manually labeled ground truth in `Experiments/RQ3/data/ground_truth.txt`. To compare the model output with the ground truth, run:
 
 ```shell
 $ cd PATH/TO/Experiments/RQ3
@@ -80,7 +80,7 @@ Overall, we found that UnifiedQA achieved 84.2% precision (303 / 360 = 84.2%) an
 - 20 due to the mismatch of components and their versions in the query (20 / 57 = 35%).
 
 ### RQ4: To what extent can different question templates affect the accuracy of the pre-trained QA model in DECIDE?
-In RQ4, we evaluate the impact of different question templates by measuring the precision and recall of each template and different combination strategies of templates. The QA model's output using different question templates are presented in `Artifact_Evaluation/RQ4/data/`. To reproduce the result in Table 7 and Table 8, one can run:
+In RQ4, we evaluate the impact of different question templates by measuring the precision and recall of each template and different combination strategies of templates. The QA model's output using different question templates are presented in `Experiments/RQ4/data/`. To reproduce the result in Table 7 and Table 8, one can run:
 
 ```shell
 $ cd PATH/TO/Experiments/RQ4
@@ -90,4 +90,4 @@ $ python compare.py
 ### RQ5: To what extent can different knowledge consolidation strategies affect the accuracy of the resulting knowledge graph?
 In RQ5, we evaluate three different knowledge consolidation strategies (*majority vote*, *weighted majority vote*, and *vote by loss*). We randomly sampled 228  of the 558 relations which were consolidated from multiple predicted relations in the knowledge. We present the manually labeled results in `Experiments/RQ5/RQ5-ALL.xlsx`. Note that to fully evaluate the knowledge consolidation strategies, we excluded 25 incorrect relations that were caused by the mismatch between component names and versions. Thus, we get 203 relations.
 
-Overall, there are 193 correct relations using majority vote (193 / 203 = 95.1%), 190 correct relations using majority vote (193 / 203 = 93.6%), 186 correct relations using majority vote (186 / 203 = 91.6%).
+Overall, there are 193 correct relations using majority vote (193 / 203 = 95.1%), 190 correct relations using majority vote (193 / 203 = 93.6%), and 186 correct relations using majority vote (186 / 203 = 91.6%).
