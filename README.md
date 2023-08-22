@@ -1,7 +1,7 @@
 
 # Knowledge-based Version Incompatibility Detection for Deep Learning
 
-This repository contains data and code to build DECIDE, a version incompatibility detection tool based on pre-trained language models proposed in *"Knowledge-based Version Incompatibility Detection for Deep Learning"*. Meanwhile, this repository also contains data and code to replicate experiment results in the paper. This repository has been made publicly available on GitHub to support Open Science. 
+This repository contains data and code of DECIDE, a version incompatibility detection tool based on pre-trained language models proposed in *"Knowledge-based Version Incompatibility Detection for Deep Learning"*. Meanwhile, this repository also contains data and code to replicate experiment results in the paper. This repository has been made publicly available on GitHub to support Open Science. 
 
 ## Introduction
 
@@ -38,7 +38,7 @@ $ cd PATH/TO/Experiments/RQ1
 $ python table6.py
 ```
 
-The result will be output in folder `RQ1/figures&tables/table6.log`.
+The result will be output in folder `Experiments/RQ1/figures&tables/table6.log`.
 
 Figure 6 shows the number of version issues detected by DECIDE, PyEGo, and Watchman on different DL stack layers. To reproduce the result, run:
 
