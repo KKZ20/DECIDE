@@ -1,0 +1,721 @@
+----------------------------1---------------------------
+stat() None, python 3.4, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/6591957
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------2---------------------------
+sincospi() None, cuda 5, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/11554223
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------3---------------------------
+python 3.1, bash_profile None, no, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/3895851
+----------------------------------------------------------
+----------------------------4---------------------------
+xml.etree None, tensorflow 8, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/4886781
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------5---------------------------
+test.func_defaults None, python 2, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/8806617
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------6---------------------------
+python 3, this_file.py None, no, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/56601842
+----------------------------------------------------------
+----------------------------7---------------------------
+python 2, a() None, no, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/7205330
+----------------------------------------------------------
+----------------------------8---------------------------
+python 2.5, xml.etree.celementtree None, yes, confidence: 3, probability: 3/3
+positive posts: 
+https://stackoverflow.com/questions/123307
+https://stackoverflow.com/questions/324483
+https://stackoverflow.com/questions/6165217
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------9---------------------------
+result.keys() None, python 2.7, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/27033824
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------10---------------------------
+cuda 11.3, cuda.cmake None, no, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/67906520
+----------------------------------------------------------
+----------------------------11---------------------------
+python 3, load() None, yes, confidence: 0, probability: 1/2
+positive posts: 
+https://stackoverflow.com/questions/57620638
+negative posts: 
+https://stackoverflow.com/questions/46538772
+----------------------------------------------------------
+----------------------------12---------------------------
+python 3.4, os.path None, no, confidence: 1, probability: 2/3
+positive posts: 
+https://stackoverflow.com/questions/37095733
+negative posts: 
+https://stackoverflow.com/questions/45223014
+https://stackoverflow.com/questions/51149057
+----------------------------------------------------------
+----------------------------13---------------------------
+tensorflow 2, tf.keras.sequential None, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/62626249
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------14---------------------------
+python 3.6, punctuation_chars None, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/61737902
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------15---------------------------
+python 2.7, python_sysconfigdata_name None, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/46498173
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------16---------------------------
+instance.function() None, python 2.6, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/6085884
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------17---------------------------
+cuda 6, a_stop None, no, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/23051377
+----------------------------------------------------------
+----------------------------18---------------------------
+python 2.6, sundials_version None, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/8187465
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------19---------------------------
+init__() None, python 2.7.2, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/9980681
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------20---------------------------
+python 3.6, time.sleep None, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/52941752
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------21---------------------------
+curve_fit None, scipy 0.9, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/4308561
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------22---------------------------
+area_under_curve() None, python 2.5, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/1988739
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------23---------------------------
+python 26, admin.py None, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/5151255
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------24---------------------------
+numpy.full None, numpy 1.8, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/26289777
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------25---------------------------
+tensorflow 0.6, cudnn 4, no, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/34491273
+----------------------------------------------------------
+----------------------------26---------------------------
+os.direntry None, python 3.5, yes, confidence: 2, probability: 3/4
+positive posts: 
+https://stackoverflow.com/questions/38661717
+https://stackoverflow.com/questions/44661513
+https://stackoverflow.com/questions/48393588
+negative posts: 
+https://stackoverflow.com/questions/37994379
+----------------------------------------------------------
+----------------------------27---------------------------
+python 3.2, parsed_args None, no, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/26379693
+----------------------------------------------------------
+----------------------------28---------------------------
+range() None, tensorflow 0.5, no, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/35652213
+----------------------------------------------------------
+----------------------------29---------------------------
+tensorboard 0.4, tensorflow 1.4, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/47654025
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------30---------------------------
+b.py None, python 3, yes, confidence: 0, probability: 1/2
+positive posts: 
+https://stackoverflow.com/questions/62257233
+negative posts: 
+https://stackoverflow.com/questions/54340672
+----------------------------------------------------------
+----------------------------31---------------------------
+python 2, master_open() None, no, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/6953572
+----------------------------------------------------------
+----------------------------32---------------------------
+some_memory_location None, python 3.5, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/38474073
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------33---------------------------
+items() None, python 2.7, no, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/26853961
+----------------------------------------------------------
+----------------------------34---------------------------
+python 2, x_d None, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/32378464
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------35---------------------------
+python 3.7, asyncio.main None, no, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/59345334
+----------------------------------------------------------
+----------------------------36---------------------------
+python 2.6, sre_compile.py None, no, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/4038429
+----------------------------------------------------------
+----------------------------37---------------------------
+python 2.6, compile.c None, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/681358
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------38---------------------------
+zip() None, python 3.4, no, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/31012663
+----------------------------------------------------------
+----------------------------39---------------------------
+tensorflow 2.4, file_paths None, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/66852263
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------40---------------------------
+x.items() None, python 2, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/26853961
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------41---------------------------
+ubuntu 18, cuda 9.2, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/63881843
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------42---------------------------
+steam_runtime None, ubuntu 20.04, no, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/62597227
+----------------------------------------------------------
+----------------------------43---------------------------
+python 2.6, tiny.c None, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/1459983
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------44---------------------------
+trainable_weights None, tensorflow 2, no, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/65685521
+----------------------------------------------------------
+----------------------------45---------------------------
+python 2, collections.sequence None, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/1416924
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------46---------------------------
+object_in_question None, python 2, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/10664278
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------47---------------------------
+ubuntu 20.04, cuda 3.18, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/67444068
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------48---------------------------
+tf.layers None, keras 2, no, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/50048612
+----------------------------------------------------------
+----------------------------49---------------------------
+path.with_stem() None, python 3.9, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/67612849
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------50---------------------------
+ubuntu 2.6, python 2.7, no, confidence: 2, probability: 2/2
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/7384289
+https://stackoverflow.com/questions/8931167
+----------------------------------------------------------
+----------------------------51---------------------------
+python 3.7, trace_labels None, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/55312423
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------52---------------------------
+string.template None, python 2.4, yes, confidence: 2, probability: 2/2
+positive posts: 
+https://stackoverflow.com/questions/3877726
+https://stackoverflow.com/questions/4044000
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------53---------------------------
+cuda 9.1, makefile.config None, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/50247420
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------54---------------------------
+activate_this.py None, python 2.5, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/7731834
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------55---------------------------
+python 2.7, subprocess.call() None, no, confidence: 2, probability: 2/2
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/38535858
+https://stackoverflow.com/questions/434612
+----------------------------------------------------------
+----------------------------56---------------------------
+cuda 6.5, npps.lib None, no, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/45782878
+----------------------------------------------------------
+----------------------------57---------------------------
+pip.py None, python 3.4, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/9038397
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------58---------------------------
+simplejson.loads None, python 3, no, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/38016773
+----------------------------------------------------------
+----------------------------59---------------------------
+f.tell() None, python 2, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/57137214
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------60---------------------------
+pandas 0.25, dataframe.explode None, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/58627050
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------61---------------------------
+small.viewitems() None, python 2.6, no, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/42307816
+----------------------------------------------------------
+----------------------------62---------------------------
+python 2.7, tensorflow 2008, no, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/42597885
+----------------------------------------------------------
+----------------------------63---------------------------
+tensorflow 2.3, numpy 1.19.5, yes, confidence: 0, probability: 1/2
+positive posts: 
+https://stackoverflow.com/questions/68375747
+negative posts: 
+https://stackoverflow.com/questions/68846725
+----------------------------------------------------------
+----------------------------64---------------------------
+round_half_up None, python 3, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/61400272
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------65---------------------------
+python 26.to, admin.py None, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/5151255
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------66---------------------------
+mx.odbc None, python 2, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/1014450
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------67---------------------------
+python 3.8, sort_dicts None, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/58674746
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------68---------------------------
+cuda 3.2, ubuntu 10.04lts, no, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/6522268
+----------------------------------------------------------
+----------------------------69---------------------------
+easy_install.exe None, python 2.7, yes, confidence: 0, probability: 1/2
+positive posts: 
+https://stackoverflow.com/questions/9038397
+negative posts: 
+https://stackoverflow.com/questions/7106480
+----------------------------------------------------------
+----------------------------70---------------------------
+python 2.5, httplib.py None, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/1841740
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------71---------------------------
+x.permute None, pytorch 3, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/62251575
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------72---------------------------
+dockerfile.devel None, bazel 0.5.4, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/49923248
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------73---------------------------
+python 2, bash_profile None, no, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/52106822
+----------------------------------------------------------
+----------------------------74---------------------------
+python 3, ttk.notebook None, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/49292201
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------75---------------------------
+python 2.6, e.args None, yes, confidence: 0, probability: 1/2
+positive posts: 
+https://stackoverflow.com/questions/5161289
+negative posts: 
+https://stackoverflow.com/questions/2220059
+----------------------------------------------------------
+----------------------------76---------------------------
+tf.keras.backend.clear_session() None, tensorflow 1.15, no, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/58368449
+----------------------------------------------------------
+----------------------------77---------------------------
+python 3.4, a_names.sort() None, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/29696911
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------78---------------------------
+ast.literate_eval None, python 2.5, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/7555142
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------79---------------------------
+pytorch 0.4, torch.isnan None, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/48171528
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------80---------------------------
+exceptions.py None, python 3.6, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/67673741
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------81---------------------------
+python 2.7, mysql_exceptions.py None, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/4724061
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------82---------------------------
+numpy 0.03, numpy.isclose None, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/46223378
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------83---------------------------
+zipinfo.is_dir() None, python 3.6, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/44412659
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------84---------------------------
+exp() None, cuda 6.5, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/27804178
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------85---------------------------
+python 2.6, package_data None, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/2998311
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------86---------------------------
+python 3, webdriver.xpi None, no, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/48493601
+----------------------------------------------------------
+----------------------------87---------------------------
+concurrent.futures None, python 3.2, yes, confidence: 12, probability: 12/12
+positive posts: 
+https://stackoverflow.com/questions/42385287
+https://stackoverflow.com/questions/4963934
+https://stackoverflow.com/questions/5209746
+https://stackoverflow.com/questions/5541727
+https://stackoverflow.com/questions/6215284
+https://stackoverflow.com/questions/6686045
+https://stackoverflow.com/questions/8278153
+https://stackoverflow.com/questions/12808634
+https://stackoverflow.com/questions/14331755
+https://stackoverflow.com/questions/45258241
+https://stackoverflow.com/questions/58829816
+https://stackoverflow.com/questions/60832288
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------88---------------------------
+numpy 0.48, np.char.mod None, no, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/25318574
+----------------------------------------------------------
+----------------------------89---------------------------
+zc.buildout None, python 3, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/5324553
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------90---------------------------
+tf.load_op_library() None, tensorflow 1.8, no, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/49826755
+----------------------------------------------------------
+----------------------------91---------------------------
+wordnet_app None, python 3, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/18440424
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------92---------------------------
+scipy 7, ubuntu 12.10, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/18230813
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------93---------------------------
+tf.einsum None, tensorflow 0.11.0rc0, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/39823596
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------94---------------------------
+python 3, dostuff() None, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/2006640
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------95---------------------------
+python 2.7, serve_forever None, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/22493362
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------96---------------------------
+python 3, func.im_func.func_code.co_firstlineno None, no, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/35930812
+----------------------------------------------------------
+----------------------------97---------------------------
+python 2, itertools.count() None, no, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/27946768
+----------------------------------------------------------
+----------------------------98---------------------------
+python 0, random() None, no, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/3041071
+----------------------------------------------------------
+----------------------------99---------------------------
+output.log None, python 3, no, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/50538310
+----------------------------------------------------------
+----------------------------100---------------------------
+xml.etree.celementtree None, python 2.5, yes, confidence: 3, probability: 3/3
+positive posts: 
+https://stackoverflow.com/questions/123307
+https://stackoverflow.com/questions/324483
+https://stackoverflow.com/questions/6165217
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------

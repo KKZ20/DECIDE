@@ -1,0 +1,7 @@
+{
+    "protocol": "http",
+    "host": "116.62.100.101",
+    "port": "22467",
+    "user": "neo4j",
+    "password": "so-knowledge-summer-20220725-467"
+}

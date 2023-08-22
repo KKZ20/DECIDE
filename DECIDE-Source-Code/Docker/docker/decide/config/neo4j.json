@@ -1,0 +1,7 @@
+{
+    "protocol": "bolt",
+    "host": "myneo4j",
+    "port": "7687",
+    "user": "neo4j",
+    "password": "knowledgeextraction"
+}

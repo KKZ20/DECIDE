@@ -1,0 +1,10 @@
+python main.py -r ./temp/AI-basketball-analysis_requirements.txt -p . > ./result/new/AI-basketball-analysis_new.log
+python main.py -r ./temp/CFL_requirements.txt -p . > ./result/new/CFL_new.log
+python main.py -r ./temp/gcn_requirements.txt -p . > ./result/new/gcn_new.log
+python main.py -r ./temp/noise2noise_requirements.txt -p . > ./result/new/noise2noise_new.log
+python main.py -r ./temp/polyrnn-pp_requirements.txt -p . > ./result/new/polyrnn-pp_new.log
+python main.py -r ./temp/QANet_requirements.txt -p . > ./result/new/QANet_new.log
+python main.py -r ./temp/Rewrite_requirements.txt -p . > ./result/new/Rewrite_new.log
+python main.py -r ./temp/StyleGAN-Tensorflow_requirements.txt -p . > ./result/new/StyleGAN-Tensorflow_new.log
+python main.py -r ./temp/tensorflow-deeplab-v3-plus_requirements.txt -p . > ./result/new/tensorflow-deeplab-v3-plus_new.log
+python main.py -r ./temp/text-classification-cnn-rnn_requirements.txt -p . > ./result/new/text-classification-cnn-rnn_new.log

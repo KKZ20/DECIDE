@@ -1,0 +1,21 @@
+Successfully connected to the knowledge base.
+-------------------------------------Incompatiblility Issue(1)-----------------------------------------
+Local cuda (v11.2) is not compatible with tensorflow (v1.12.0).
+See more details in the following Stack Overflow posts:
+https://stackoverflow.com/questions/53345147
+https://stackoverflow.com/questions/53727997
+https://stackoverflow.com/questions/50622526
+https://stackoverflow.com/questions/53345147
+https://stackoverflow.com/questions/53596618
+https://stackoverflow.com/questions/53457472
+https://stackoverflow.com/questions/60077642
+https://stackoverflow.com/questions/55392598
+https://stackoverflow.com/questions/57644833
+https://stackoverflow.com/questions/55389141
+https://stackoverflow.com/questions/55564069
+https://stackoverflow.com/questions/56803006
+We recommend you to upgrade tensorflow to v2.5.
+See more details in the following Stack Overflow posts:
+https://stackoverflow.com/questions/67593465
+-------------------------------------Incompatiblility Issue End----------------------------------------
+1 incompatibility issues found.

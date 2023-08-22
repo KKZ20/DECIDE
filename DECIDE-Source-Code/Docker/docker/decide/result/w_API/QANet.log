@@ -1,0 +1,151 @@
+/data/home/zzk/workspace/zzk/Benchmark/projects/QANet/config.py
+/data/home/zzk/workspace/zzk/Benchmark/projects/QANet/util.py
+/data/home/zzk/workspace/zzk/Benchmark/projects/QANet/model.py
+/data/home/zzk/workspace/zzk/Benchmark/projects/QANet/prepro.py
+/data/home/zzk/workspace/zzk/Benchmark/projects/QANet/evaluate-v1.1.py
+/data/home/zzk/workspace/zzk/Benchmark/projects/QANet/main.py
+/data/home/zzk/workspace/zzk/Benchmark/projects/QANet/demo.py
+/data/home/zzk/workspace/zzk/Benchmark/projects/QANet/layers.py
+Not in virtualenv
+cuDNN not found!
+bazel not found
+numpy is not installed in local
+tqdm is not installed in local
+bottle is not installed in local
+......................................................................................
+Current library: tensorflow (v1.5)
+Knowledge base: {'library': {'keras': [('2.2.4', 'yes', ['53617072'])]}, 'hardware': {'cudnn': [('7.0.4', 'yes', ['49465509'])], 'cuda': [('8', 'yes', ['51518679', '47195590', '51229506'])]}, 'programming_language': {'python': [('3.5', 'yes', ['60526751'])]}, 'operating_system': {}, 'tool': {}}
+--------------------------------DC ISSUE-----------------------------------------
+cudnn is not installed in local, the recommended version is ['7.0.4']
+-----------------------------------END-------------------------------------------
+--------------------------------DC ISSUE-----------------------------------------
+ERROR: Local tensorflow (v1.5) is not compatible with cuda (v11.2) (0)
+-----------------------------------END-------------------------------------------
+--------------------------------DC ISSUE-----------------------------------------
+ERROR: Local tensorflow (v1.5) may not be compatible with python (v3.6) (1)
+Recommand StackOverflow Posts: 
+https://stackoverflow.com/questions/60526751
+-----------------------------------END-------------------------------------------
+++++++++++++++++++++++++++++API CHECK++++++++++++++++++++++++++++
+......................................................................................
+Current API: tf.cond
+Knowledge base: {'library': {'tensorflow': [('1', 'no', ['67691106']), ('1.4', 'yes', ['47769761'])]}, 'hardware': {}, 'programming_language': {}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: time.sleep
+Knowledge base: {'library': {}, 'hardware': {}, 'programming_language': {'python': [('3.6', 'yes', ['52941752']), ('0.001', 'no', ['271789']), ('3', 'yes', ['39621500', '34366451']), ('2', 'yes', ['67439665'])]}, 'operating_system': {}, 'tool': {}}
+--------------------------------DC ISSUE-----------------------------------------
+ERROR: Local time.sleep is not compatible with python (v3.6) (3)
+-----------------------------------END-------------------------------------------
+......................................................................................
+Current API: tf.split
+Knowledge base: {'library': {'tensorflow': [('0.12', 'yes', ['41862548'])]}, 'hardware': {}, 'programming_language': {}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: operator.mul
+Knowledge base: {'library': {}, 'hardware': {}, 'programming_language': {'python': [('2', 'yes', ['44180362'])]}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: random.shuffle
+Knowledge base: {'library': {}, 'hardware': {}, 'programming_language': {'python': [('0.65', 'no', ['1235631'])]}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: sess.run
+Knowledge base: {'library': {'tensorflow': [('1', 'yes', ['64942713'])]}, 'hardware': {}, 'programming_language': {}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: saver.restore
+Knowledge base: {'library': {'tensorflow': [('0.12', 'no', ['41495299'])]}, 'hardware': {}, 'programming_language': {}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: functools.reduce
+Knowledge base: {'library': {}, 'hardware': {}, 'programming_language': {'python': [('3.7', 'yes', ['62496992'])]}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: np.zeros
+Knowledge base: {'library': {'numpy': [('3.95', 'yes', ['44866614'])]}, 'hardware': {}, 'programming_language': {}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: os.makedirs
+Knowledge base: {'library': {}, 'hardware': {}, 'programming_language': {'python': [('3.5', 'no', ['48987444'])]}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: json.load
+Knowledge base: {'library': {}, 'hardware': {}, 'programming_language': {'python': [('3.6', 'yes', ['35245605'])]}, 'operating_system': {}, 'tool': {}}
+--------------------------------DC ISSUE-----------------------------------------
+ERROR: json.load may not be compatible with python (v3.6) (1)
+Recommand StackOverflow Posts: 
+https://stackoverflow.com/questions/35245605
+-----------------------------------END-------------------------------------------
+......................................................................................
+Current API: os.getcwd
+Knowledge base: {'library': {}, 'hardware': {}, 'programming_language': {'python': [('2.7', 'yes', ['3430395'])]}, 'operating_system': {}, 'tool': {}}
+--------------------------------DC ISSUE-----------------------------------------
+ERROR: os.getcwd may not be compatible with python (v3.6) (1)
+Recommand StackOverflow Posts: 
+https://stackoverflow.com/questions/3430395
+-----------------------------------END-------------------------------------------
+......................................................................................
+Current API: tf.data
+Knowledge base: {'library': {'tensorflow': [('1.5', 'yes', ['46732695'])]}, 'hardware': {}, 'programming_language': {}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: tf.tile
+Knowledge base: {'library': {'tensorflow': [('1.12', 'no', ['59577132'])]}, 'hardware': {}, 'programming_language': {}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: dataset.batch
+Knowledge base: {'library': {'tensorflow': [('2', 'yes', ['59734474'])]}, 'hardware': {}, 'programming_language': {}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: tf.placeholder
+Knowledge base: {'library': {'tensorflow': [('2', 'no', ['60316058']), ('1.3', 'yes', ['47051723'])]}, 'hardware': {}, 'programming_language': {}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: np.array
+Knowledge base: {'library': {'numpy': [('0.325', 'yes', ['67695754']), ('8.99849401', 'yes', ['46085625']), ('21.87729639', 'yes', ['46085625'])]}, 'hardware': {}, 'programming_language': {'python': [('3', 'no', ['3877247'])]}, 'operating_system': {}, 'tool': {}}
+--------------------------------DC ISSUE-----------------------------------------
+ERROR: Local np.array is not compatible with python (v3.6) (2)
+Recommand StackOverflow Posts: 
+https://stackoverflow.com/questions/3877247
+-----------------------------------END-------------------------------------------
+......................................................................................
+Current API: tf.clip_by_value
+Knowledge base: {'library': {'tensorflow': [('1.4', 'yes', ['50026224'])]}, 'hardware': {}, 'programming_language': {}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: line.split
+Knowledge base: {'library': {'tensorflow': [('8', 'no', ['57679193'])]}, 'hardware': {}, 'programming_language': {}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: tf.constant
+Knowledge base: {'library': {}, 'hardware': {}, 'programming_language': {}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: codecs.open
+Knowledge base: {'library': {}, 'hardware': {}, 'programming_language': {'python': [('2', 'yes', ['18568745', '4541305', '9177937', '53743742'])]}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: tensorflow.python
+Knowledge base: {'library': {'tensorflow': [('2.6', 'no', ['68905818']), ('2.7', 'no', ['68905818'])]}, 'hardware': {}, 'programming_language': {}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: tf.shape
+Knowledge base: {'library': {'tensorflow': [('1.8', 'yes', ['50414384']), ('r1.1', 'yes', ['43883326'])]}, 'hardware': {}, 'programming_language': {}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: tf.get_variable
+Knowledge base: {'library': {'tensorflow': [('1.4', 'yes', ['47189751'])]}, 'hardware': {}, 'programming_language': {}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: os.path
+Knowledge base: {'library': {}, 'hardware': {}, 'programming_language': {'python': [('3.5', 'yes', ['37095733']), ('2.7', 'yes', ['3430395']), ('3', 'yes', ['3430395', '4119176', '44661513']), ('3.4', 'no', ['45223014', '51149057'])]}, 'operating_system': {}, 'tool': {}}
+--------------------------------DC ISSUE-----------------------------------------
+ERROR: Local os.path is not compatible with python (v3.6) (3)
+-----------------------------------END-------------------------------------------
+......................................................................................
+Current API: os.path.join
+Knowledge base: {'library': {'tensorflow': [('8', 'no', ['6766266'])]}, 'hardware': {}, 'programming_language': {'python': [('9', 'no', ['47748008']), ('3', 'no', ['6766266']), ('3.4', 'no', ['2909998'])]}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: tensorflow.contrib
+Knowledge base: {'library': {'tensorflow': [('2', 'no', ['55524156'])]}, 'hardware': {}, 'programming_language': {}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: re.sub
+Knowledge base: {'library': {}, 'hardware': {}, 'programming_language': {'python': [('2.6', 'no', ['8498638'])]}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: tf.contrib
+Knowledge base: {'library': {'tensorflow': [('0.12.1', 'yes', ['41638676']), ('1', 'no', ['59130063', '55872941', '61628580', '58607239']), ('2', 'no', ['59130063', '62580933', '53534547', '54360818', '55524156', '55872941', '55911034', '57629649', '59816366', '61628580', '54342829', '58607239', '68784711'])]}, 'hardware': {}, 'programming_language': {}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: os.path.exists
+Knowledge base: {'library': {}, 'hardware': {}, 'programming_language': {'python': [('3', 'yes', ['44661513']), ('2', 'no', ['44661513'])]}, 'operating_system': {}, 'tool': {}}
+--------------------------------DC ISSUE-----------------------------------------
+ERROR: Local os.path.exists is not compatible with python (v3.6) (3)
+-----------------------------------END-------------------------------------------
+......................................................................................
+Current API: app.run
+Knowledge base: {'library': {}, 'hardware': {}, 'programming_language': {'python': [('2.6', 'yes', ['50312701'])]}, 'operating_system': {}, 'tool': {}}
+--------------------------------DC ISSUE-----------------------------------------
+ERROR: app.run may not be compatible with python (v3.6) (1)
+Recommand StackOverflow Posts: 
+https://stackoverflow.com/questions/50312701
+-----------------------------------END-------------------------------------------

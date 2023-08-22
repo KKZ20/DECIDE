@@ -1,0 +1,54 @@
+Not in virtualenv
+cuDNN not found!
+bazel not found
+{'label': 'operating_system', 'name': 'macos', 'version': '0.44', 'verdict': 'yes', 'post_id': ['56466453']}
+{'label': 'programming_language', 'name': 'python', 'version': '3.7', 'verdict': 'yes', 'post_id': ['56466453']}
+{'label': 'library', 'name': 'tensorflow', 'version': '1.14', 'verdict': 'yes', 'post_id': ['61817557', '62225269']}
+{'label': 'library', 'name': 'pandas', 'version': '0.25.2', 'verdict': 'yes', 'post_id': ['59536094']}
+{'label': 'software', 'name': 'emr', 'version': '5.31', 'verdict': 'yes', 'post_id': ['68886571']}
+{'label': 'programming_language', 'name': 'python', 'version': '2', 'verdict': 'no', 'post_id': ['68886571']}
+{'label': 'programming_language', 'name': 'python', 'version': '3', 'verdict': 'yes', 'post_id': ['68886571']}
+{'label': 'programming_language', 'name': 'python', 'version': '3.7.3', 'verdict': 'yes', 'post_id': ['56811337', '55989681']}
+unknown
+......................................................................................
+Current library: numpy (v1.16.2)
+Knowledge base: {'library': {'tensorflow': [('1.14', 'yes', ['61817557', '62225269'])], 'pandas': [('0.25.2', 'yes', ['59536094'])]}, 'hardware': {}, 'programming_language': {'python': [('3.7', 'yes', ['56466453']), ('2', 'no', ['68886571']), ('3', 'yes', ['68886571']), ('3.7.3', 'yes', ['56811337', '55989681'])]}, 'operating_system': {'macos': [('0.44', 'yes', ['56466453'])]}, 'tool': {}, 'database': {}, 'software': {'emr': [('5.31', 'yes', ['68886571'])]}}
+--------------------------------DC ISSUE-----------------------------------------
+ERROR: Local numpy (v1.16.2) may not be compatible with tensorflow (v1.15.0) (1)
+Recommend StackOverflow Posts: 
+https://stackoverflow.com/questions/61817557
+https://stackoverflow.com/questions/62225269
+-----------------------------------END-------------------------------------------
+--------------------------------DC ISSUE-----------------------------------------
+ERROR: Local numpy (v1.16.2) may not be compatible with pandas (v1.3.5) (1)
+Recommend StackOverflow Posts: 
+https://stackoverflow.com/questions/59536094
+-----------------------------------END-------------------------------------------
+{'label': 'library', 'name': 'numpy', 'version': '1.15', 'verdict': 'yes', 'post_id': ['51909734', '52817582']}
+unknown
+......................................................................................
+Current library: scipy (v1.2.1)
+Knowledge base: {'library': {'numpy': [('1.15', 'yes', ['51909734', '52817582'])]}, 'hardware': {}, 'programming_language': {}, 'operating_system': {}, 'tool': {}, 'database': {}, 'software': {}}
+--------------------------------DC ISSUE-----------------------------------------
+ERROR: Local scipy (v1.2.1) may not be compatible with numpy (v1.21.6) (1)
+Recommend StackOverflow Posts: 
+https://stackoverflow.com/questions/51909734
+https://stackoverflow.com/questions/52817582
+-----------------------------------END-------------------------------------------
+{'label': 'hardware', 'name': 'cuda', 'version': '10.1', 'verdict': 'yes', 'post_id': ['55340017', '55835626']}
+unknown
+{'label': 'hardware', 'name': 'cuda', 'version': '10.1', 'verdict': 'yes', 'post_id': ['56426255']}
+{'label': 'tool', 'name': 'gcc', 'version': '4.8.5', 'verdict': 'yes', 'post_id': ['56426255']}
+{'label': 'operating_system', 'name': 'centos', 'version': '7.6', 'verdict': 'yes', 'post_id': ['56426255']}
+{'label': 'programming_language', 'name': 'python', 'version': '3.7.3', 'verdict': 'yes', 'post_id': ['56893796']}
+......................................................................................
+Current library: tensorflow (v1.13.1)
+Knowledge base: {'library': {}, 'hardware': {'cuda': [('10.1', 'yes', ['55340017', '55835626']), ('10.1', 'yes', ['56426255'])]}, 'programming_language': {'python': [('3.7.3', 'yes', ['56893796'])]}, 'operating_system': {'centos': [('7.6', 'yes', ['56426255'])]}, 'tool': {'gcc': [('4.8.5', 'yes', ['56426255'])]}, 'database': {}, 'software': {}}
+--------------------------------DC ISSUE-----------------------------------------
+ERROR: Local tensorflow (v1.13.1) is not compatible with cuda (v11.7) (0)
+-----------------------------------END-------------------------------------------
+--------------------------------DC ISSUE-----------------------------------------
+ERROR: Local tensorflow (v1.13.1) may not be compatible with gcc (v7.5.0) (1)
+Recommend StackOverflow Posts: 
+https://stackoverflow.com/questions/56426255
+-----------------------------------END-------------------------------------------

@@ -1,0 +1,173 @@
+/data/home/zzk/workspace/zzk/Benchmark/projects/CFL/config.py
+/data/home/zzk/workspace/zzk/Benchmark/projects/CFL/test_CFL.py
+/data/home/zzk/workspace/zzk/Benchmark/projects/CFL/Models/CFL_StdConvs.py
+/data/home/zzk/workspace/zzk/Benchmark/projects/CFL/Models/__init__.py
+/data/home/zzk/workspace/zzk/Benchmark/projects/CFL/Models/CFL_EquiConvs.py
+/data/home/zzk/workspace/zzk/Benchmark/projects/CFL/Models/network.py
+/data/home/zzk/workspace/zzk/Benchmark/projects/CFL/Models/deform_conv_layer/test_deform_conv.py
+/data/home/zzk/workspace/zzk/Benchmark/projects/CFL/Models/deform_conv_layer/__init__.py
+/data/home/zzk/workspace/zzk/Benchmark/projects/CFL/Models/deform_conv_layer/deform_conv_op.py
+/data/home/zzk/workspace/zzk/Benchmark/projects/CFL/Models/deform_conv_layer/deform_conv_test_mx.py
+/data/home/zzk/workspace/zzk/Benchmark/projects/CFL/Models/deform_conv_layer/deform_conv_grad.py
+Not in virtualenv
+cuDNN not found!
+bazel not found
+......................................................................................
+Current library: numpy (v1.16.2)
+Knowledge base: {'library': {'tensorflow': [('1.14', 'yes', ['61817557', '62225269'])]}, 'hardware': {}, 'programming_language': {'python': [('3.7.3', 'yes', ['56811337', '55989681']), ('2', 'yes', ['68886571'])]}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current library: scipy (v1.2.1)
+Knowledge base: {'library': {}, 'hardware': {}, 'programming_language': {}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current library: tensorflow (v1.13.1)
+Knowledge base: {'library': {}, 'hardware': {'cuda': [('10', 'yes', ['59982603', '55835626', '57681865', '63591721']), ('10.1', 'yes', ['55340017', '55835626']), ('10.1', 'no', ['55392598', '55026935', '55028122'])]}, 'programming_language': {'python': [('3.7.3', 'yes', ['56893796'])]}, 'operating_system': {'ubuntu': [('18.04.2', 'yes', ['57022645'])]}, 'tool': {}}
+--------------------------------DC ISSUE-----------------------------------------
+ERROR: Local tensorflow (v1.13.1) is not compatible with cuda (v11.2) (0)
+-----------------------------------END-------------------------------------------
+--------------------------------DC ISSUE-----------------------------------------
+ERROR: Local tensorflow (v1.13.1) may not be compatible with ubuntu (v18.04.1) (1)
+Recommand StackOverflow Posts: 
+https://stackoverflow.com/questions/57022645
+-----------------------------------END-------------------------------------------
+++++++++++++++++++++++++++++API CHECK++++++++++++++++++++++++++++
+......................................................................................
+Current API: tf.image.resize_bilinear
+Knowledge base: {'library': {'tensorflow': [('1.12', 'yes', ['54903538'])]}, 'hardware': {}, 'programming_language': {}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: os.makedirs
+Knowledge base: {'library': {}, 'hardware': {}, 'programming_language': {'python': [('3.5', 'no', ['48987444'])]}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: tf.stack
+Knowledge base: {'library': {'tensorflow': [('r1.1', 'yes', ['43852695'])]}, 'hardware': {}, 'programming_language': {}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: np.save
+Knowledge base: {'library': {}, 'hardware': {}, 'programming_language': {'python': [('3', 'yes', ['29707016'])]}, 'operating_system': {}, 'tool': {}}
+--------------------------------DC ISSUE-----------------------------------------
+ERROR: np.save may not be compatible with python (v3.6) (1)
+Recommand StackOverflow Posts: 
+https://stackoverflow.com/questions/29707016
+-----------------------------------END-------------------------------------------
+......................................................................................
+Current API: tf.gradients
+Knowledge base: {'library': {}, 'hardware': {}, 'programming_language': {'python': [('2', 'no', ['43410170'])]}, 'operating_system': {}, 'tool': {}}
+--------------------------------DC ISSUE-----------------------------------------
+ERROR: Local tf.gradients is not compatible with python (v3.6) (2)
+Recommand StackOverflow Posts: 
+https://stackoverflow.com/questions/43410170
+-----------------------------------END-------------------------------------------
+......................................................................................
+Current API: tf.constant
+Knowledge base: {'library': {}, 'hardware': {}, 'programming_language': {}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: re.sub
+Knowledge base: {'library': {}, 'hardware': {}, 'programming_language': {'python': [('2.6', 'no', ['8498638'])]}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: tf.shape
+Knowledge base: {'library': {'tensorflow': [('1.8', 'yes', ['50414384']), ('r1.1', 'yes', ['43883326'])]}, 'hardware': {}, 'programming_language': {}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: scipy.misc
+Knowledge base: {'library': {'scipy': [('0.19', 'no', ['56743683'])]}, 'hardware': {}, 'programming_language': {}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: tf.nn.max_pool
+Knowledge base: {'library': {}, 'hardware': {'cudnn': [('6', 'yes', ['47354833'])]}, 'programming_language': {}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: matplotlib.pyplot
+Knowledge base: {'library': {}, 'hardware': {}, 'programming_language': {'python': [('3', 'yes', ['52500781']), ('2.7.5', 'yes', ['42448458'])]}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: np.linalg.norm
+Knowledge base: {'library': {'numpy': [('1.9', 'yes', ['7741976'])]}, 'hardware': {}, 'programming_language': {}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: math.sqrt
+Knowledge base: {'library': {}, 'hardware': {}, 'programming_language': {'python': [('2.6', 'yes', ['327048'])]}, 'operating_system': {}, 'tool': {}}
+--------------------------------DC ISSUE-----------------------------------------
+ERROR: math.sqrt may not be compatible with python (v3.6) (1)
+Recommand StackOverflow Posts: 
+https://stackoverflow.com/questions/327048
+-----------------------------------END-------------------------------------------
+......................................................................................
+Current API: os.path.exists
+Knowledge base: {'library': {}, 'hardware': {}, 'programming_language': {'python': [('3', 'yes', ['44661513']), ('2', 'no', ['44661513'])]}, 'operating_system': {}, 'tool': {}}
+--------------------------------DC ISSUE-----------------------------------------
+ERROR: Local os.path.exists is not compatible with python (v3.6) (3)
+-----------------------------------END-------------------------------------------
+......................................................................................
+Current API: tf.nn.conv2d_transpose
+Knowledge base: {'library': {'tensorflow': [('2', 'no', ['55199043'])]}, 'hardware': {'cudnn': [('6', 'yes', ['47354833'])]}, 'programming_language': {}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: saver.restore
+Knowledge base: {'library': {'tensorflow': [('0.12', 'no', ['41495299'])]}, 'hardware': {}, 'programming_language': {}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: np.zeros
+Knowledge base: {'library': {'numpy': [('3.95', 'yes', ['44866614'])]}, 'hardware': {}, 'programming_language': {}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: tf.contrib
+Knowledge base: {'library': {'tensorflow': [('0.12.1', 'yes', ['41638676']), ('1', 'no', ['59130063', '55872941', '61628580', '58607239']), ('2', 'no', ['59130063', '62580933', '53534547', '54360818', '55524156', '55872941', '55911034', '57629649', '59816366', '61628580', '54342829', '58607239', '68784711'])]}, 'hardware': {}, 'programming_language': {}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: session.run
+Knowledge base: {'library': {'tensorflow': [('r0.10', 'yes', ['39787108'])]}, 'hardware': {}, 'programming_language': {}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: np.sum
+Knowledge base: {'library': {}, 'hardware': {}, 'programming_language': {'python': [('4.5ms', 'yes', ['66886682'])]}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: tf.placeholder
+Knowledge base: {'library': {'tensorflow': [('2', 'no', ['60316058']), ('1.3', 'yes', ['47051723'])]}, 'hardware': {}, 'programming_language': {}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: tf.assign
+Knowledge base: {'library': {'keras': [('2.1', 'yes', ['47081613'])]}, 'hardware': {}, 'programming_language': {}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: tf.split
+Knowledge base: {'library': {'tensorflow': [('0.12', 'yes', ['41862548'])]}, 'hardware': {}, 'programming_language': {}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: os.path
+Knowledge base: {'library': {}, 'hardware': {}, 'programming_language': {'python': [('3.5', 'yes', ['37095733']), ('2.7', 'yes', ['3430395']), ('3', 'yes', ['3430395', '4119176', '44661513']), ('3.4', 'no', ['45223014', '51149057'])]}, 'operating_system': {}, 'tool': {}}
+--------------------------------DC ISSUE-----------------------------------------
+ERROR: Local os.path is not compatible with python (v3.6) (3)
+-----------------------------------END-------------------------------------------
+......................................................................................
+Current API: np.matmul
+Knowledge base: {'library': {}, 'hardware': {}, 'programming_language': {'python': [('3', 'yes', ['58484660'])]}, 'operating_system': {}, 'tool': {}}
+--------------------------------DC ISSUE-----------------------------------------
+ERROR: np.matmul may not be compatible with python (v3.6) (1)
+Recommand StackOverflow Posts: 
+https://stackoverflow.com/questions/58484660
+-----------------------------------END-------------------------------------------
+......................................................................................
+Current API: tf.multiply
+Knowledge base: {'library': {'tensorflow': [('1', 'yes', ['42784516'])]}, 'hardware': {}, 'programming_language': {}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: tf.device
+Knowledge base: {'library': {'tensorflow': [('3', 'yes', ['45544750'])]}, 'hardware': {}, 'programming_language': {}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: glob.glob
+Knowledge base: {'library': {}, 'hardware': {}, 'programming_language': {'python': [('3', 'yes', ['44661513', '48393588']), ('3.5', 'no', ['37173091', '44661513'])]}, 'operating_system': {}, 'tool': {}}
+--------------------------------DC ISSUE-----------------------------------------
+ERROR: Local glob.glob is not compatible with python (v3.6) (3)
+-----------------------------------END-------------------------------------------
+--------------------------------DC ISSUE-----------------------------------------
+ERROR: Local glob.glob may not be compatible with python (v3.6) (4)
+-----------------------------------END-------------------------------------------
+......................................................................................
+Current API: np.array
+Knowledge base: {'library': {'numpy': [('0.325', 'yes', ['67695754']), ('8.99849401', 'yes', ['46085625']), ('21.87729639', 'yes', ['46085625'])]}, 'hardware': {}, 'programming_language': {'python': [('3', 'no', ['3877247'])]}, 'operating_system': {}, 'tool': {}}
+--------------------------------DC ISSUE-----------------------------------------
+ERROR: Local np.array is not compatible with python (v3.6) (2)
+Recommand StackOverflow Posts: 
+https://stackoverflow.com/questions/3877247
+-----------------------------------END-------------------------------------------
+......................................................................................
+Current API: tensorflow.python
+Knowledge base: {'library': {'tensorflow': [('2.6', 'no', ['68905818']), ('2.7', 'no', ['68905818'])]}, 'hardware': {}, 'programming_language': {}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: os.path.isfile
+Knowledge base: {'library': {}, 'hardware': {}, 'programming_language': {'python': [('3', 'yes', ['44661513'])]}, 'operating_system': {}, 'tool': {}}
+--------------------------------DC ISSUE-----------------------------------------
+ERROR: os.path.isfile may not be compatible with python (v3.6) (1)
+Recommand StackOverflow Posts: 
+https://stackoverflow.com/questions/44661513
+-----------------------------------END-------------------------------------------
+......................................................................................
+Current API: sess.run
+Knowledge base: {'library': {'tensorflow': [('1', 'yes', ['64942713'])]}, 'hardware': {}, 'programming_language': {}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: tf.get_variable
+Knowledge base: {'library': {'tensorflow': [('1.4', 'yes', ['47189751'])]}, 'hardware': {}, 'programming_language': {}, 'operating_system': {}, 'tool': {}}

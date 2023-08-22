@@ -1,0 +1,32 @@
+Not in virtualenv
+cuDNN not found!
+bazel not found
+unknown
+{'label': 'library', 'name': 'tensorflow', 'version': '1.14', 'verdict': 'no', 'post_id': ['61817557']}
+{'label': 'programming_language', 'name': 'python', 'version': '3', 'verdict': 'yes', 'post_id': ['57734033']}
+{'label': 'programming_language', 'name': 'python', 'version': '3.5', 'verdict': 'yes', 'post_id': ['56972228']}
+......................................................................................
+Current library: numpy (v1.17.4)
+Knowledge base: {'library': {'tensorflow': [('1.14', 'no', ['61817557'])]}, 'hardware': {}, 'programming_language': {'python': [('3', 'yes', ['57734033']), ('3.5', 'yes', ['56972228'])]}, 'operating_system': {}, 'tool': {}, 'database': {}, 'software': {}}
+unknown
+unknown
+{'label': 'operating_system', 'name': 'ubuntu', 'version': '16.0.4', 'verdict': 'yes', 'post_id': ['59108370']}
+unknown
+unknown
+{'label': 'library', 'name': 'tfds', 'version': '4', 'verdict': 'no', 'post_id': ['65795196']}
+{'label': 'hardware', 'name': 'cuda', 'version': '11', 'verdict': 'no', 'post_id': ['65619544']}
+{'label': 'hardware', 'name': 'cuda', 'version': '10.1', 'verdict': 'no', 'post_id': ['65432123']}
+unknown
+......................................................................................
+Current library: tensorflow (v1.15.2)
+Knowledge base: {'library': {'tfds': [('4', 'no', ['65795196'])]}, 'hardware': {'cuda': [('11', 'no', ['65619544']), ('10.1', 'no', ['65432123'])]}, 'programming_language': {}, 'operating_system': {'ubuntu': [('16.0.4', 'yes', ['59108370'])]}, 'tool': {}, 'database': {}, 'software': {}}
+--------------------------------DC ISSUE-----------------------------------------
+ERROR: Local tensorflow (v1.15.2) is not compatible with cuda (v11.7) (0)
+-----------------------------------END-------------------------------------------
+--------------------------------DC ISSUE-----------------------------------------
+ERROR: Local tensorflow (v1.15.2) may not be compatible with ubuntu (v18.04) (1)
+Recommend StackOverflow Posts: 
+https://stackoverflow.com/questions/59108370
+-----------------------------------END-------------------------------------------
+opencv-python-headless is not installed in local
+image is not installed in local

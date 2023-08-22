@@ -1,0 +1,876 @@
+current post: 41507724
+libaray knowledge extract:
+('python 2.7', 'tensorflow 12', 'yes')
+('python 2.7', 'tensorflow 10', 'yes')
+('python 3.5', 'tensorflow 12', 'no')
+end of library knowledge
+------------------
+current post: 2269785
+libaray knowledge extract:
+('numpy 1.5', 'python 3', 'yes')
+('python 3.1', 'scipy 0.10', 'yes')
+end of library knowledge
+------------------
+current post: 4298296
+libaray knowledge extract:
+('numpy 1.5', 'python 3', 'yes')
+end of library knowledge
+------------------
+current post: 4662284
+libaray knowledge extract:
+('numpy 1.5', 'python 3', 'yes')
+end of library knowledge
+------------------
+current post: 7818845
+libaray knowledge extract:
+('numpy 1.5', 'python 3', 'yes')
+end of library knowledge
+------------------
+current post: 59946299
+libaray knowledge extract:
+('cudnn 7.4', 'tensorflow 1.14', 'yes')
+('cudnn 10', 'tensorflow 1.14', 'yes')
+end of library knowledge
+------------------
+current post: 66171167
+libaray knowledge extract:
+('cudnn 7.4', 'tensorflow 1.14', 'yes')
+end of library knowledge
+------------------
+current post: 7597107
+libaray knowledge extract:
+('numpy 1.2', 'scipy 0.7', 'no')
+('fftw 3.1.2', 'scipy 0.7', 'no')
+('fftw 3.1.2', 'numpy 1.2', 'no')
+end of library knowledge
+------------------
+current post: 54551052
+libaray knowledge extract:
+end of library knowledge
+------------------
+current post: 1677657
+libaray knowledge extract:
+('numpy 1.3', 'python 2.6', 'yes')
+end of library knowledge
+------------------
+current post: 50407644
+libaray knowledge extract:
+('python 3.5.2', 'ubuntu 16.04.4', 'yes')
+('python 3.6.5', 'ubuntu 16.04.4', 'yes')
+end of library knowledge
+------------------
+current post: 61718707
+libaray knowledge extract:
+('debian 3.9', 'python 3.8', 'yes')
+('python 3.8', 'ubuntu 18.04', 'no')
+('python 3.8', 'ubuntu 20.04', 'yes')
+end of library knowledge
+------------------
+current post: 65872220
+libaray knowledge extract:
+('python 3.8', 'ubuntu 18.04', 'yes')
+end of library knowledge
+------------------
+current post: 41310489
+libaray knowledge extract:
+('python 2.7', 'ubuntu 16.04.1', 'no')
+('python 2', 'ubuntu 18.04', 'no')
+('python 3', 'ubuntu 18.04', 'yes')
+end of library knowledge
+------------------
+current post: 46892946
+libaray knowledge extract:
+('flask 0.12', 'python 3.5.2', 'yes')
+('flask 0.12', 'ubuntu 16.04', 'yes')
+('python 3.5.2', 'ubuntu 16.04', 'yes')
+end of library knowledge
+------------------
+current post: 66864505
+libaray knowledge extract:
+('tensorflow 2', 'tensorflow-core-platform 0.3.1', 'yes')
+('tensorflow 1', 'tensorflow-core-platform 0.3.1', 'no')
+('tensorflow 2.4.1', 'tensorflow-core-platform 0.3.1', 'yes')
+('tensorflow 2', 'tensorflow-core-platform 0.3', 'yes')
+('tensorflow 1', 'tensorflow-core-platform 0.3', 'no')
+('tensorflow 2.4.1', 'tensorflow-core-platform 0.3', 'yes')
+end of library knowledge
+------------------
+current post: 35467230
+libaray knowledge extract:
+('python 2.7', 'windows 7', 'yes')
+('windows 7', 'wxpython 3.0.2', 'no')
+('python 2.7', 'wxpython 3.0.2', 'no')
+end of library knowledge
+------------------
+current post: 214601
+libaray knowledge extract:
+('python 3', 'ubuntu 8.04', 'yes')
+('python 2', 'ubuntu 8.04', 'yes')
+('python 2.8', 'ubuntu 8.04', 'yes')
+('python 2.3', 'ubuntu 8.04', 'yes')
+('python 8.04', 'ubuntu 8.04', 'yes')
+('python 2.5', 'ubuntu 8.04', 'yes')
+('python 2.5', 'ubuntu 10.04', 'no')
+('python 2.8', 'ubuntu 10.04', 'yes')
+('python 2', 'ubuntu 10.04', 'yes')
+end of library knowledge
+------------------
+current post: 4394650
+libaray knowledge extract:
+('python 2.6.6', 'ubuntu 10.10', 'yes')
+end of library knowledge
+------------------
+current post: 4550121
+libaray knowledge extract:
+('python 2.6.6', 'ubuntu 10.10', 'yes')
+end of library knowledge
+------------------
+current post: 5968851
+libaray knowledge extract:
+('python 2.6.6', 'ubuntu 10.10', 'yes')
+end of library knowledge
+------------------
+current post: 52044176
+libaray knowledge extract:
+('keras 2.2', 'tensorflow 1.10', 'yes')
+('python 2.7.2', 'tensorflow 1.10', 'yes')
+('keras 2.2', 'python 2.7.2', 'yes')
+end of library knowledge
+------------------
+current post: 55238537
+libaray knowledge extract:
+('cuda 10', 'cudnn 7.5', 'yes')
+end of library knowledge
+------------------
+current post: 61979969
+libaray knowledge extract:
+('cuda 10', 'cudnn 7.5', 'yes')
+end of library knowledge
+------------------
+current post: 59415928
+libaray knowledge extract:
+('cudnn 7.5', 'tensorflow 2', 'yes')
+('cuda 10', 'cudnn 7.5', 'yes')
+('cuda 10', 'tensorflow 2', 'yes')
+end of library knowledge
+------------------
+current post: 42356998
+libaray knowledge extract:
+('python 3.6', 'tensorflow 1.2', 'yes')
+end of library knowledge
+------------------
+current post: 45579151
+libaray knowledge extract:
+('python 3.6', 'windows 64', 'yes')
+('python 64', 'windows 64', 'yes')
+('python 3.5', 'tensorflow 1.2', 'yes')
+('python 3.6', 'tensorflow 1.2', 'yes')
+end of library knowledge
+------------------
+current post: 7939259
+libaray knowledge extract:
+end of library knowledge
+------------------
+current post: 61817557
+libaray knowledge extract:
+('numpy 1.16.4', 'tensorflow 1.14', 'no')
+('numpy 1.17.2', 'tensorflow 1.14', 'no')
+end of library knowledge
+------------------
+current post: 417674
+libaray knowledge extract:
+('numpy 1.2.1', 'python 2.6', 'yes')
+end of library knowledge
+------------------
+current post: 44950522
+libaray knowledge extract:
+('cuda 8', 'ubuntu 17.04', 'yes')
+end of library knowledge
+------------------
+current post: 45908511
+libaray knowledge extract:
+('cuda 9', 'ubuntu 17.04', 'yes')
+('cuda 9', 'gcc 5.3.1', 'yes')
+('cuda 9', 'gcc 6.3', 'yes')
+('cuda 8', 'ubuntu 17.04', 'yes')
+('gcc 5.3.1', 'ubuntu 17.04', 'yes')
+('gcc 6.3', 'ubuntu 17.04', 'yes')
+('cuda 8', 'gcc 5.3.1', 'yes')
+('cuda 8', 'gcc 6.3', 'no')
+end of library knowledge
+------------------
+current post: 2775417
+libaray knowledge extract:
+('python 2.4.5', 'ubuntu 8.04', 'yes')
+('python 2.4', 'ubuntu 8.04', 'yes')
+end of library knowledge
+------------------
+current post: 58382360
+libaray knowledge extract:
+('cuda 9', 'tensorflow 1.3', 'no')
+('cuda 9', 'cudnn 7', 'no')
+('cudnn 7', 'tensorflow 1.3', 'no')
+end of library knowledge
+------------------
+current post: 53727997
+libaray knowledge extract:
+('cuda 9', 'tensorflow 1.12', 'no')
+('cuda 9', 'cudnn 7.1.4', 'yes')
+('cudnn 7.1.4', 'tensorflow 1.12', 'yes')
+('tensorflow 2', 'ubuntu 18.04', 'yes')
+('cuda 10', 'tensorflow 2', 'yes')
+('cudnn 7.6', 'tensorflow 2', 'yes')
+('cuda 10', 'cudnn 7.6', 'yes')
+end of library knowledge
+------------------
+current post: 49465509
+libaray knowledge extract:
+('cuda 8', 'cudnn 7.0.4', 'no')
+('cuda 8', 'cudnn 7', 'no')
+('cudnn 7.0.4', 'tensorflow 1.5', 'yes')
+('tensorflow 1.5', 'ubuntu 16.04', 'yes')
+('cuda 9', 'tensorflow 1.5', 'yes')
+('cudnn 7.0.4', 'ubuntu 16.04', 'yes')
+('cuda 9', 'cudnn 7.0.4', 'no')
+('cuda 9', 'ubuntu 16.04', 'yes')
+('cuda 9', 'cudnn 7', 'yes')
+end of library knowledge
+------------------
+current post: 50053286
+libaray knowledge extract:
+('python 3.5.4', 'ubuntu 16', 'yes')
+('python 3.6.2', 'ubuntu 16', 'yes')
+('python 3.6.4', 'ubuntu 16', 'yes')
+('python 3.5.2', 'ubuntu 16', 'no')
+('python 2.7.10', 'ubuntu 16', 'no')
+end of library knowledge
+------------------
+current post: 34491273
+libaray knowledge extract:
+('cuda 7.5', 'tensorflow 0.6', 'no')
+('cudnn 4', 'tensorflow 0.6', 'no')
+('cuda 7.5', 'cudnn 3', 'no')
+('cuda 7.5', 'cudnn 4', 'no')
+('cudnn 3', 'tensorflow 0.6', 'no')
+end of library knowledge
+------------------
+current post: 58143787
+libaray knowledge extract:
+('cuda 11', 'tensorflow 2.4', 'yes')
+('cuda 11', 'cudnn 8.0.4', 'yes')
+('cudnn 8.0.4', 'tensorflow 2.4', 'yes')
+('cudnn 7.6.5', 'tensorflow 2.3', 'yes')
+('cuda 10.1', 'cudnn 7.6.5', 'yes')
+('cuda 10.1', 'tensorflow 2.3', 'yes')
+('cudnn 7.6.5', 'tensorflow 2.1', 'yes')
+('cuda 10.1', 'tensorflow 2.1', 'yes')
+('cudnn 7.6.3', 'tensorflow 2', 'yes')
+('cuda 10', 'tensorflow 2', 'yes')
+('cuda 10', 'cudnn 7.6.3', 'yes')
+('cuda 9', 'tensorflow 1.10', 'yes')
+('cuda 9', 'cudnn 7.0.5', 'yes')
+('cudnn 7.0.5', 'tensorflow 1.10', 'yes')
+end of library knowledge
+------------------
+current post: 61357131
+libaray knowledge extract:
+('cuda 10.1', 'tensorflow 2.1', 'yes')
+('cudnn 7.6.5', 'tensorflow 2.1', 'yes')
+('cuda 10.1', 'cudnn 7.6.5', 'yes')
+end of library knowledge
+------------------
+current post: 63102518
+libaray knowledge extract:
+('cuda 10.1', 'cudnn 7.6.5', 'no')
+('python 3.7', 'tensorflow 2', 'yes')
+end of library knowledge
+------------------
+current post: 63440029
+libaray knowledge extract:
+('cuda 10.1', 'cudnn 7.6.5', 'yes')
+end of library knowledge
+------------------
+current post: 65101591
+libaray knowledge extract:
+('cuda 10.1', 'cudnn 7.6.5', 'yes')
+('cudnn 7.6', 'python 3.8', 'no')
+('python 3.8', 'tensorflow 2.3.1', 'yes')
+('cuda 10.1', 'python 3.8', 'no')
+('cudnn 7.6', 'tensorflow 2.3.1', 'yes')
+('cuda 10.1', 'cudnn 7.6', 'yes')
+('cuda 10.1', 'tensorflow 2.3.1', 'yes')
+end of library knowledge
+------------------
+current post: 38055383
+libaray knowledge extract:
+end of library knowledge
+------------------
+current post: 50622526
+libaray knowledge extract:
+('cuda 9', 'tensorflow 1.12', 'yes')
+('cudnn 7.1.4', 'tensorflow 1.12', 'yes')
+('cuda 9', 'cudnn 7.1.4', 'yes')
+end of library knowledge
+------------------
+current post: 47654025
+libaray knowledge extract:
+('tensorboard 0.4', 'tensorflow 1.4', 'no')
+end of library knowledge
+------------------
+current post: 49321789
+libaray knowledge extract:
+('python 3.4', 'wxpython 4', 'yes')
+('python 2.7', 'wxpython 4', 'yes')
+end of library knowledge
+------------------
+current post: 49283127
+libaray knowledge extract:
+('cuda 9', 'tensorflow 1.6', 'yes')
+('cuda 9', 'debian 9.3', 'yes')
+('debian 9.3', 'tensorflow 1.6', 'yes')
+end of library knowledge
+------------------
+current post: 40899749
+libaray knowledge extract:
+('cuda 3', 'windows 10', 'yes')
+('tensorflow 0.12', 'windows 10', 'yes')
+('python 3.5.2', 'windows 10', 'yes')
+('cuda 8', 'windows 10', 'yes')
+('cuda 3', 'tensorflow 0.12', 'no')
+('cuda 3', 'python 3.5.2', 'no')
+('python 3.5.2', 'tensorflow 0.12', 'no')
+('cuda 8', 'tensorflow 0.12', 'yes')
+('cuda 8', 'python 3.5.2', 'yes')
+end of library knowledge
+------------------
+current post: 67923439
+libaray knowledge extract:
+('pandas 0.18.1', 'python 3.5', 'no')
+('numpy 1.11.1', 'python 3.5', 'no')
+('pandas 0.18.1', 'python 3.6', 'no')
+('numpy 1.11.1', 'python 3.6', 'no')
+('numpy 1.11.1', 'pandas 0.18.1', 'no')
+('numpy 1.19.5', 'pandas 1.1.5', 'yes')
+end of library knowledge
+------------------
+current post: 39090014
+libaray knowledge extract:
+('cudnn 5.1', 'ubuntu 14.04', 'yes')
+('cuda 8', 'ubuntu 14.04', 'yes')
+('cuda 8', 'cudnn 5.1', 'yes')
+end of library knowledge
+------------------
+current post: 14442107
+libaray knowledge extract:
+('numpy 1.6.2', 'python 3.3', 'no')
+('numpy 1.6.2', 'python 3.2.3', 'no')
+('numpy 1.7', 'python 3.3', 'no')
+('numpy 1.6.3', 'python 3.3', 'no')
+('numpy 1.7', 'python 3.2.3', 'yes')
+('numpy 1.6.3', 'python 3.2.3', 'no')
+end of library knowledge
+------------------
+current post: 63530619
+libaray knowledge extract:
+('gzip 1.5', 'python 3.6.8', 'yes')
+end of library knowledge
+------------------
+current post: 64458576
+libaray knowledge extract:
+('cuda 11', 'ubuntu 20.4', 'yes')
+('cuda 11', 'tensorflow 2.3', 'yes')
+('tensorflow 2.3', 'ubuntu 20.4', 'yes')
+('cuda 11', 'cudnn 8', 'yes')
+('cuda 11', 'ubuntu 20.04', 'yes')
+('cudnn 8', 'ubuntu 20.04', 'yes')
+('cuda 10.1', 'cudnn 8', 'yes')
+('cuda 10.1', 'ubuntu 20.04', 'yes')
+end of library knowledge
+------------------
+current post: 54886203
+libaray knowledge extract:
+('python 3.7', 'tensorflow 3.6', 'no')
+end of library knowledge
+------------------
+current post: 54955702
+libaray knowledge extract:
+('python 3.7', 'tensorflow 3.6', 'no')
+end of library knowledge
+------------------
+current post: 55340017
+libaray knowledge extract:
+('cuda 10.1', 'tensorflow 1.13', 'yes')
+end of library knowledge
+------------------
+current post: 55835626
+libaray knowledge extract:
+('cuda 10', 'tensorflow 1.13', 'yes')
+('cuda 10.1', 'tensorflow 1.13', 'yes')
+end of library knowledge
+------------------
+current post: 55028552
+libaray knowledge extract:
+('cuda 10.1', 'tensorflow 1.13', 'no')
+end of library knowledge
+------------------
+current post: 45703036
+libaray knowledge extract:
+('numpy 1.8.1', 'scipy 1.19.1', 'no')
+('numpy 1.13.1', 'scipy 1.19.1', 'no')
+end of library knowledge
+------------------
+current post: 47974243
+libaray knowledge extract:
+('pandas 0.20.3', 'python 3.5.2', 'yes')
+end of library knowledge
+------------------
+current post: 61703923
+libaray knowledge extract:
+('python 3.8.2', 'ubuntu 1.1', 'no')
+('python 3', 'ubuntu 1.1', 'no')
+end of library knowledge
+------------------
+current post: 68886571
+libaray knowledge extract:
+('numpy 1.16.5', 'python 3', 'yes')
+('emr 5.31', 'python 3', 'yes')
+('numpy 5.31', 'python 3', 'yes')
+('numpy 1.16.5', 'python 2', 'no')
+('emr 5.31', 'python 2', 'no')
+('numpy 5.31', 'python 2', 'no')
+('emr 5.31', 'numpy 1.16.5', 'yes')
+('emr 5.31', 'numpy 5.31', 'no')
+end of library knowledge
+------------------
+current post: 13062766
+libaray knowledge extract:
+('cuda 5', 'ubuntu 12.10', 'yes')
+('cuda 5', 'ubuntu 12', 'no')
+end of library knowledge
+------------------
+current post: 15647164
+libaray knowledge extract:
+('cuda 5', 'ubuntu 11', 'yes')
+('gcc 4.7', 'ubuntu 12.10', 'no')
+('cuda 5', 'ubuntu 12.10', 'yes')
+end of library knowledge
+------------------
+current post: 62225269
+libaray knowledge extract:
+('numpy 1.16.4', 'tensorflow 1.14', 'yes')
+('keras 2.2.5', 'tensorflow 1.14', 'yes')
+('keras 2.2.5', 'numpy 1.16.4', 'yes')
+end of library knowledge
+------------------
+current post: 53345147
+libaray knowledge extract:
+('cuda 9.1', 'ubuntu 16.04', 'no')
+('cuda 9.1', 'ubuntu 18.04', 'no')
+('cuda 9.1', 'tensorflow 1.12', 'yes')
+('cuda 9', 'ubuntu 16.04', 'no')
+('cuda 9', 'ubuntu 18.04', 'no')
+('cuda 9', 'tensorflow 1.12', 'no')
+('tensorflow 1.12', 'ubuntu 16.04', 'no')
+('tensorflow 1.12', 'ubuntu 18.04', 'no')
+end of library knowledge
+------------------
+current post: 63428708
+libaray knowledge extract:
+('python 3.8', 'tensorflow 2.1', 'no')
+('python 3.8', 'tensorflow 2.3', 'no')
+('python 3.7', 'tensorflow 2.1', 'yes')
+('python 3.7', 'tensorflow 2.3', 'no')
+end of library knowledge
+------------------
+current post: 42733611
+libaray knowledge extract:
+('cuda 3.5', 'tensorflow 3', 'no')
+end of library knowledge
+------------------
+current post: 56893796
+libaray knowledge extract:
+('python 3.7.3', 'tensorflow 1.13.1', 'no')
+end of library knowledge
+------------------
+current post: 65432123
+libaray knowledge extract:
+('cuda 10.1', 'tensorflow 1', 'no')
+('cuda 10.1', 'tensorflow 1.15', 'no')
+('cuda 11', 'tensorflow 2.4', 'yes')
+end of library knowledge
+------------------
+current post: 65548441
+libaray knowledge extract:
+('cuda 11', 'tensorflow 2.4', 'yes')
+('cudnn 7.6', 'tensorflow 2.3', 'yes')
+('cuda 10.1', 'cudnn 7.6', 'yes')
+('cuda 10.1', 'tensorflow 2.3', 'yes')
+end of library knowledge
+------------------
+current post: 65737458
+libaray knowledge extract:
+('cuda 11', 'cudnn 8', 'yes')
+('cuda 11', 'tensorflow 2.4', 'yes')
+('cudnn 8', 'tensorflow 2.4', 'yes')
+end of library knowledge
+------------------
+current post: 66669925
+libaray knowledge extract:
+('cuda 11', 'cudnn 8', 'yes')
+('cuda 11', 'tensorflow 2.4', 'yes')
+('cudnn 8', 'tensorflow 2.4', 'yes')
+end of library knowledge
+------------------
+current post: 66669998
+libaray knowledge extract:
+('cuda 11', 'cudnn 8', 'yes')
+('cuda 11', 'tensorflow 2.4', 'yes')
+('cudnn 8', 'tensorflow 2.4', 'yes')
+end of library knowledge
+------------------
+current post: 67986815
+libaray knowledge extract:
+('cuda 11', 'tensorflow 2.4', 'no')
+('cuda 11', 'tensorflow 2.5', 'yes')
+end of library knowledge
+------------------
+current post: 6426841
+libaray knowledge extract:
+('python 2.6', 'wxpython 2.8.10', 'no')
+end of library knowledge
+------------------
+current post: 49430706
+libaray knowledge extract:
+('keras 2.1.5', 'tensorflow 1.6', 'no')
+end of library knowledge
+------------------
+current post: 44973235
+libaray knowledge extract:
+('coremltools 0.4', 'keras 2', 'yes')
+end of library knowledge
+------------------
+current post: 56811337
+libaray knowledge extract:
+('numpy 1.16.2', 'python 3.7.3', 'no')
+end of library knowledge
+------------------
+current post: 55989681
+libaray knowledge extract:
+('numpy 1.16.2', 'windows 10', 'yes')
+('python 3.7.3', 'windows 10', 'yes')
+('numpy 1.16.2', 'python 3.7.3', 'yes')
+end of library knowledge
+------------------
+current post: 58009133
+libaray knowledge extract:
+('python 3.6.8', 'ubuntu 18.04.3', 'yes')
+end of library knowledge
+------------------
+current post: 65619544
+libaray knowledge extract:
+('cuda 10', 'debian 9', 'yes')
+('cuda 11', 'debian 10', 'yes')
+('cuda 11', 'tensorflow 1.15', 'yes')
+('cuda 11', 'tensorflow 1', 'no')
+('debian 10', 'tensorflow 1.15', 'yes')
+('debian 10', 'tensorflow 1', 'yes')
+end of library knowledge
+------------------
+current post: 28271244
+libaray knowledge extract:
+('python 2.7.6', 'ubuntu 14.04', 'yes')
+('python 3.4', 'ubuntu 14.04', 'yes')
+end of library knowledge
+------------------
+current post: 43650802
+libaray knowledge extract:
+('python 2.7.6', 'ubuntu 14.04', 'yes')
+end of library knowledge
+------------------
+current post: 23529790
+libaray knowledge extract:
+('python 2.7.6', 'ubuntu 14.04', 'yes')
+end of library knowledge
+------------------
+current post: 23676364
+libaray knowledge extract:
+('python 2.7.6', 'ubuntu 14.04', 'no')
+end of library knowledge
+------------------
+current post: 44482203
+libaray knowledge extract:
+end of library knowledge
+------------------
+current post: 67701963
+libaray knowledge extract:
+('python 3.7.10', 'tensorflow 2.4.1', 'yes')
+end of library knowledge
+------------------
+current post: 6622751
+libaray knowledge extract:
+('cuda 4.1', 'gcc 4.6', 'no')
+('cuda 4.1', 'gcc 4.7', 'no')
+('cuda 4.1', 'gcc 4.5', 'yes')
+('cuda 5', 'gcc 4.6', 'yes')
+('cuda 5', 'gcc 4.7', 'no')
+('cuda 6', 'gcc 4.7', 'yes')
+('cuda 7', 'gcc 4.8', 'yes')
+('cuda 7', 'ubuntu 14.04', 'yes')
+('cuda 7.5', 'gcc 4.8', 'yes')
+('gcc 4.8', 'ubuntu 14.04', 'yes')
+('cuda 7.5', 'ubuntu 14.04', 'yes')
+('gcc 5.3', 'ubuntu 16.06', 'yes')
+('cuda 8', 'gcc 5.3', 'yes')
+('cuda 8', 'ubuntu 16.06', 'yes')
+('cuda 9', 'gcc 6', 'yes')
+('cuda 9', 'ubuntu 16.04', 'yes')
+('cuda 9', 'ubuntu 17.04', 'yes')
+('gcc 6', 'ubuntu 16.04', 'yes')
+('gcc 6', 'ubuntu 17.04', 'yes')
+('cuda 9.2', 'gcc 7', 'yes')
+('cuda 10.1', 'gcc 8', 'yes')
+('cuda 10.2', 'gcc 8', 'yes')
+('cuda 11', 'ubuntu 20.04', 'yes')
+('cuda 11', 'gcc 9', 'yes')
+('gcc 9', 'ubuntu 20.04', 'yes')
+('cuda 11.1', 'gcc 10', 'yes')
+('cuda 11.1', 'gcc 9', 'yes')
+end of library knowledge
+------------------
+current post: 54922009
+libaray knowledge extract:
+('cuda 9', 'cudnn 7.0.3', 'no')
+('cuda 9', 'cudnn 7.1.2', 'yes')
+('cuda 9', 'cudnn 7.3.1', 'yes')
+('cuda 9.1', 'cudnn 7.0.3', 'no')
+('cuda 9.1', 'cudnn 7.1.2', 'no')
+('cuda 9.1', 'cudnn 7.3.1', 'no')
+('cuda 7', 'cudnn 7.0.3', 'yes')
+('cuda 7', 'cudnn 7.1.2', 'no')
+('cuda 7', 'cudnn 7.3.1', 'no')
+('cudnn 9', 'tensorflow 1.4', 'yes')
+('cudnn 9', 'tensorflow 1.7', 'yes')
+('cudnn 7', 'tensorflow 1.4', 'yes')
+('cudnn 7', 'tensorflow 1.7', 'yes')
+end of library knowledge
+------------------
+current post: 1469525
+libaray knowledge extract:
+('gcc 4.3.2', 'python 2.5.2', 'no')
+end of library knowledge
+------------------
+current post: 24843218
+libaray knowledge extract:
+end of library knowledge
+------------------
+current post: 28783870
+libaray knowledge extract:
+end of library knowledge
+------------------
+current post: 49972135
+libaray knowledge extract:
+end of library knowledge
+------------------
+current post: 61589848
+libaray knowledge extract:
+end of library knowledge
+------------------
+current post: 9183597
+libaray knowledge extract:
+('python 2.7.2', 'windows 7', 'yes')
+end of library knowledge
+------------------
+current post: 9620048
+libaray knowledge extract:
+end of library knowledge
+------------------
+current post: 13436167
+libaray knowledge extract:
+end of library knowledge
+------------------
+current post: 24064783
+libaray knowledge extract:
+end of library knowledge
+------------------
+current post: 62459481
+libaray knowledge extract:
+('python 3.7', 'ubuntu 20.04', 'no')
+('airflow 1.10.10', 'python 3.7', 'yes')
+('python 3.8', 'ubuntu 20.04', 'yes')
+('airflow 1.10.10', 'python 3.8', 'no')
+('airflow 1.10.10', 'ubuntu 20.04', 'no')
+end of library knowledge
+------------------
+current post: 7487249
+libaray knowledge extract:
+('python 2.5', 'ubuntu 8.04', 'no')
+end of library knowledge
+------------------
+current post: 40261728
+libaray knowledge extract:
+('cudnn 5.1', 'ubuntu 16.04', 'yes')
+('cuda 8', 'ubuntu 16.04', 'yes')
+('cuda 8', 'cudnn 5.1', 'no')
+end of library knowledge
+------------------
+current post: 410213
+libaray knowledge extract:
+('python 2.5.2', 'ubuntu 8.10', 'yes')
+end of library knowledge
+------------------
+current post: 6512887
+libaray knowledge extract:
+('cuda 4', 'ubuntu 11.04', 'yes')
+end of library knowledge
+------------------
+current post: 18719234
+libaray knowledge extract:
+('flask 0.9', 'python 3.3', 'no')
+end of library knowledge
+------------------
+current post: 66066262
+libaray knowledge extract:
+('coremltools 4.1', 'tensorflow 2.4.1', 'yes')
+('python 3.8.7', 'tensorflow 2.4.1', 'yes')
+('coremltools 4.1', 'python 3.8.7', 'yes')
+end of library knowledge
+------------------
+current post: 40797568
+libaray knowledge extract:
+end of library knowledge
+------------------
+current post: 67471798
+libaray knowledge extract:
+('cuda 11.1', 'pytorch 1.8.1', 'yes')
+end of library knowledge
+------------------
+current post: 40981144
+libaray knowledge extract:
+('python 2.7', 'ubuntu 3.4', 'yes')
+('python 2.7', 'ubuntu 14.04', 'yes')
+end of library knowledge
+------------------
+current post: 41971754
+libaray knowledge extract:
+('python 2.7', 'ubuntu 14.04', 'yes')
+end of library knowledge
+------------------
+current post: 29394684
+libaray knowledge extract:
+('python 2.7', 'ubuntu 14.04', 'yes')
+end of library knowledge
+------------------
+current post: 35139786
+libaray knowledge extract:
+('python 3.6', 'ubuntu 16.04', 'yes')
+('python 2.7', 'ubuntu 14.04', 'yes')
+end of library knowledge
+------------------
+current post: 36027029
+libaray knowledge extract:
+('python 2.7', 'ubuntu 14.04', 'yes')
+end of library knowledge
+------------------
+current post: 41092808
+libaray knowledge extract:
+('python 3.4', 'ubuntu 14.04', 'no')
+('python 2.7', 'ubuntu 14.04', 'no')
+('python 3', 'ubuntu 14.04', 'no')
+end of library knowledge
+------------------
+current post: 33202506
+libaray knowledge extract:
+('python 2.7', 'ubuntu 14.04', 'no')
+end of library knowledge
+------------------
+current post: 60526751
+libaray knowledge extract:
+('python 3.5', 'tensorflow 3.8', 'no')
+('python 3.5', 'tensorflow 1.5', 'yes')
+end of library knowledge
+------------------
+current post: 3173790
+libaray knowledge extract:
+('numpy 10.6', 'python 2.6', 'yes')
+('numpy 10.4', 'python 2.6', 'yes')
+end of library knowledge
+------------------
+current post: 65795196
+libaray knowledge extract:
+('tensorflow 1.15', 'tfds 4', 'no')
+end of library knowledge
+------------------
+current post: 60530736
+libaray knowledge extract:
+('blender 2.81', 'python 3.7', 'yes')
+end of library knowledge
+------------------
+current post: 50311325
+libaray knowledge extract:
+('cuda 9', 'ubuntu 16.04', 'yes')
+('cuda 9', 'tensorflow 9.1', 'no')
+('tensorflow 9.1', 'ubuntu 16.04', 'no')
+('cuda 8', 'tensorflow 1.8', 'yes')
+end of library knowledge
+------------------
+current post: 51782716
+libaray knowledge extract:
+('cuda 8', 'tensorflow 1.8', 'yes')
+end of library knowledge
+------------------
+current post: 4050558
+libaray knowledge extract:
+('python 2.6', 'ubuntu 10.04', 'yes')
+('python 2.6', 'ubuntu 6', 'yes')
+end of library knowledge
+------------------
+current post: 979881
+libaray knowledge extract:
+('python 2.6', 'ubuntu 2', 'yes')
+end of library knowledge
+------------------
+current post: 40815512
+libaray knowledge extract:
+('jetpack 2.3', 'ubuntu 16.04', 'yes')
+end of library knowledge
+------------------
+current post: 46940714
+libaray knowledge extract:
+('python 3.5.2', 'tensorflow 1.3', 'yes')
+('cudnn 6', 'python 3.5.2', 'yes')
+('cuda 8', 'python 3.5.2', 'yes')
+('cudnn 6', 'tensorflow 1.3', 'yes')
+('cuda 8', 'tensorflow 1.3', 'yes')
+('cuda 8', 'cudnn 6', 'no')
+('cudnn 5.1', 'python 3.5.2', 'yes')
+('python 3.5.2', 'tensorflow 1.2.1', 'yes')
+('cuda 8', 'cudnn 5.1', 'no')
+('cudnn 5.1', 'tensorflow 1.2.1', 'yes')
+('cuda 8', 'tensorflow 1.2.1', 'yes')
+end of library knowledge
+------------------
+current post: 21075523
+libaray knowledge extract:
+('cuda 5.5', 'gcc 4.7', 'yes')
+end of library knowledge
+------------------
+current post: 57734033
+libaray knowledge extract:
+('numpy 1.17.1', 'python 3', 'no')
+('numpy 1.14.6', 'python 3', 'no')
+('python 3', 'scipy 1.0.1', 'no')
+('numpy 1.17.1', 'python 2', 'no')
+('numpy 1.17.1', 'scipy 1.0.1', 'no')
+('numpy 1.14.6', 'python 2', 'no')
+('numpy 1.14.6', 'scipy 1.0.1', 'no')
+('python 2', 'scipy 1.0.1', 'no')
+end of library knowledge
+------------------
+current post: 53557408
+libaray knowledge extract:
+('keras 2.0.8', 'tensorflow 1.4', 'yes')
+('cuda 9', 'tensorflow 1.11', 'yes')
+('keras 2.2.4', 'tensorflow 1.11', 'no')
+('cuda 9', 'keras 2.2.4', 'no')
+end of library knowledge
+------------------

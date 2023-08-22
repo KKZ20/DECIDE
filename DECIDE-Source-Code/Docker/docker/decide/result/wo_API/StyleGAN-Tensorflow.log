@@ -1,0 +1,15 @@
+/data/home/zzk/workspace/zzk/Benchmark/projects/StyleGAN-Tensorflow/ops.py
+/data/home/zzk/workspace/zzk/Benchmark/projects/StyleGAN-Tensorflow/main.py
+/data/home/zzk/workspace/zzk/Benchmark/projects/StyleGAN-Tensorflow/utils.py
+/data/home/zzk/workspace/zzk/Benchmark/projects/StyleGAN-Tensorflow/StyleGAN.py
+Not in virtualenv
+cuDNN not found!
+bazel not found
+numpy is not installed in local
+pillow is not installed in local
+......................................................................................
+Current library: scipy (v1.2.0)
+Knowledge base: {'library': {}, 'hardware': {}, 'programming_language': {}, 'operating_system': {}, 'tool': {}}
+tqdm is not installed in local
+opencv-python is not installed in local
+tensorflow is not installed in local

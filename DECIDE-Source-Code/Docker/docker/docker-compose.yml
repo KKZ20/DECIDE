@@ -1,0 +1,31 @@
+version: '3'
+services:
+  myneo4j:
+    build:
+      context: ./myneo4j
+    ports:
+      - "7474:7474"
+      - "7687:7687"
+    volumes:
+      - ./myneo4j:/app
+
+    # image: neo4j:latest
+    # container_name: my_neo4j
+    # environment:
+    #   NEO4J_AUTH: neo4j/password
+    # ports:
+    #   - "7474:7474"
+    #   - "7687:7687"
+    # volumes:
+    #   - neo4j_data:/data
+
+  decide:
+    build:
+      context: ./decide
+    depends_on:
+      - myneo4j
+    volumes:
+      - ./decide:/app
+
+volumes:
+  neo4j_data:

@@ -1,0 +1,4 @@
+beautifulsoup4==4.12.2
+pynvml==11.5.0
+allennlp-models==2.10.1
+# en-core-web-sm==2.3.1

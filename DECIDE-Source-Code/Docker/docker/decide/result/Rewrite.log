@@ -1,0 +1,21 @@
+Successfully connected to the knowledge base.
+-------------------------------------Incompatiblility Issue(1)-----------------------------------------
+Local python (v3.6) is not compatible with numpy (v1.11.1).
+See more details in the following Stack Overflow posts:
+https://stackoverflow.com/questions/67923439
+We recommend you to upgrade numpy to v1.18.
+See more details in the following Stack Overflow posts:
+https://stackoverflow.com/questions/60112823
+-------------------------------------Incompatiblility Issue End----------------------------------------
+-------------------------------------Incompatiblility Issue(2)-----------------------------------------
+Local python (v3.6) is not compatible with tensorflow (v0.10.0).
+See more details in the following Stack Overflow posts:
+https://stackoverflow.com/questions/44518747
+We recommend you to upgrade tensorflow to v1.2.
+See more details in the following Stack Overflow posts:
+https://stackoverflow.com/questions/42356998
+https://stackoverflow.com/questions/45579151
+https://stackoverflow.com/questions/44442734
+https://stackoverflow.com/questions/45020581
+-------------------------------------Incompatiblility Issue End----------------------------------------
+2 incompatibility issues found.

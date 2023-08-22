@@ -1,0 +1,14 @@
+Successfully connected to the knowledge base.
+-------------------------------------Incompatiblility Issue(1)-----------------------------------------
+Local numpy (v1.16) is not compatible with scipy (v1.2.1).
+See more details in the following Stack Overflow posts:
+https://stackoverflow.com/questions/58536229
+-------------------------------------Incompatiblility Issue(2)-----------------------------------------
+Local cuda (v11.2) is not compatible with tensorflow (v1.13.1).
+See more details in the following Stack Overflow posts:
+https://stackoverflow.com/questions/56426255
+We recommend you to upgrade tensorflow to v2.5.
+See more details in the following Stack Overflow posts:
+https://stackoverflow.com/questions/67593465
+-------------------------------------Incompatiblility Issue End----------------------------------------
+2 incompatibility issues found.

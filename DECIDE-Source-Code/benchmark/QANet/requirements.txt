@@ -1,0 +1,5 @@
+numpy
+tqdm
+spacy==2.0.9
+bottle
+tensorflow-gpu==1.5

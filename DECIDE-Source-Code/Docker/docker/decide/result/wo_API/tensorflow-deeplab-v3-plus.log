@@ -1,0 +1,31 @@
+/data/home/zzk/workspace/zzk/Benchmark/projects/tensorflow-deeplab-v3-plus/export_inference_graph.py
+/data/home/zzk/workspace/zzk/Benchmark/projects/tensorflow-deeplab-v3-plus/create_pascal_tf_record.py
+/data/home/zzk/workspace/zzk/Benchmark/projects/tensorflow-deeplab-v3-plus/inference.py
+/data/home/zzk/workspace/zzk/Benchmark/projects/tensorflow-deeplab-v3-plus/evaluate.py
+/data/home/zzk/workspace/zzk/Benchmark/projects/tensorflow-deeplab-v3-plus/train.py
+/data/home/zzk/workspace/zzk/Benchmark/projects/tensorflow-deeplab-v3-plus/deeplab_model.py
+/data/home/zzk/workspace/zzk/Benchmark/projects/tensorflow-deeplab-v3-plus/create_cityscapes_tf_record.py
+/data/home/zzk/workspace/zzk/Benchmark/projects/tensorflow-deeplab-v3-plus/utils/dataset_util.py
+/data/home/zzk/workspace/zzk/Benchmark/projects/tensorflow-deeplab-v3-plus/utils/preprocessing.py
+/data/home/zzk/workspace/zzk/Benchmark/projects/tensorflow-deeplab-v3-plus/utils/__init__.py
+Not in virtualenv
+cuDNN not found!
+bazel not found
+numpy is not installed in local
+......................................................................................
+Current library: tensorflow (v1.12.0)
+Knowledge base: {'library': {}, 'hardware': {'cuda': [('10.1', 'no', ['56426255']), ('9', 'yes', ['50622526', '53345147', '53727997', '55782472', '53596618', '55392598', '53457472', '60077642'])], 'cudnn': [('7.3', 'yes', ['53457472']), ('7.1.4', 'yes', ['50622526', '53727997'])]}, 'programming_language': {}, 'operating_system': {'ubuntu': [('18.04', 'no', ['53345147'])]}, 'tool': {}}
+--------------------------------DC ISSUE-----------------------------------------
+ERROR: Local tensorflow (v1.12.0) is not compatible with cuda (v11.2) (0)
+-----------------------------------END-------------------------------------------
+--------------------------------DC ISSUE-----------------------------------------
+cudnn is not installed in local, the recommended version is ['7.3', '7.1.4']
+-----------------------------------END-------------------------------------------
+--------------------------------DC ISSUE-----------------------------------------
+ERROR: Local tensorflow (v1.12.0) is not compatible with ubuntu (v18.04.1) (2)
+Recommand StackOverflow Posts: 
+https://stackoverflow.com/questions/53345147
+-----------------------------------END-------------------------------------------
+matplotlib is not installed in local
+opencv-python is not installed in local
+pillow is not installed in local

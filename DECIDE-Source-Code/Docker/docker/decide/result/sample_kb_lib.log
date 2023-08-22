@@ -1,0 +1,747 @@
+----------------------------1---------------------------
+tensorflow 12, python 2.7, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/41507724
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------2---------------------------
+numpy 1.5, python 3, yes, confidence: 4, probability: 4/4
+positive posts: 
+https://stackoverflow.com/questions/2269785
+https://stackoverflow.com/questions/4298296
+https://stackoverflow.com/questions/4662284
+https://stackoverflow.com/questions/7818845
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------3---------------------------
+cudnn 7.4, tensorflow 1.14, yes, confidence: 2, probability: 2/2
+positive posts: 
+https://stackoverflow.com/questions/59946299
+https://stackoverflow.com/questions/66171167
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------4---------------------------
+numpy 1.2, scipy 3.1.2, no, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/7597107
+----------------------------------------------------------
+----------------------------5---------------------------
+python 2.6, numpy 1.3, yes, confidence: 2, probability: 2/2
+positive posts: 
+https://stackoverflow.com/questions/823331
+https://stackoverflow.com/questions/1677657
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------6---------------------------
+ubuntu 16.04.4, python 3.5.2, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/50407644
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------7---------------------------
+ubuntu 18.04, python 3.8, yes, confidence: 3, probability: 3/3
+positive posts: 
+https://stackoverflow.com/questions/61718707
+https://stackoverflow.com/questions/62407114
+https://stackoverflow.com/questions/65872220
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------8---------------------------
+ubuntu 16.04.1, python 2.7, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/41310489
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------9---------------------------
+python 3.5.2, flask 0.12, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/46892946
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------10---------------------------
+tensorflow 0.3.1, python 0.3, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/66864505
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------11---------------------------
+python 2.7, wxpython 3.0.2, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/35467230
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------12---------------------------
+ubuntu 8.04, python 2.8, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/214601
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------13---------------------------
+ubuntu 14.04, flask 9.4, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/34829273
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------14---------------------------
+python 2.6.6, ubuntu 10.10, yes, confidence: 3, probability: 3/3
+positive posts: 
+https://stackoverflow.com/questions/4394650
+https://stackoverflow.com/questions/4550121
+https://stackoverflow.com/questions/5968851
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------15---------------------------
+tensorflow 8.2.1, cuda 11.3, no, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/68817506
+----------------------------------------------------------
+----------------------------16---------------------------
+tensorflow 1.10, python 2.7.2, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/52044176
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------17---------------------------
+cudnn 7.5, cuda 10, yes, confidence: 3, probability: 3/3
+positive posts: 
+https://stackoverflow.com/questions/55238537
+https://stackoverflow.com/questions/61979969
+https://stackoverflow.com/questions/59415928
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------18---------------------------
+python 3.6, tensorflow 1.2, yes, confidence: 2, probability: 2/2
+positive posts: 
+https://stackoverflow.com/questions/42356998
+https://stackoverflow.com/questions/45579151
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------19---------------------------
+scipy 3.1.2, numpy 1.2, no, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/7597107
+----------------------------------------------------------
+----------------------------20---------------------------
+python 3.9, ubuntu 18.04, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/61718707
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------21---------------------------
+scipy 0.981980506, numpy 0.981980506, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/7939259
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------22---------------------------
+tensorflow 1.14, numpy 1.17.2, no, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/61817557
+----------------------------------------------------------
+----------------------------23---------------------------
+numpy 1.2.1, python 2.6, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/417674
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------24---------------------------
+cuda 8, ubuntu 17.04, yes, confidence: 2, probability: 2/2
+positive posts: 
+https://stackoverflow.com/questions/44950522
+https://stackoverflow.com/questions/45908511
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------25---------------------------
+python 2.4.5, ubuntu 8.04, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/2775417
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------26---------------------------
+tensorflow 1.3, cudnn 7, no, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/58382360
+----------------------------------------------------------
+----------------------------27---------------------------
+tensorflow 2.2.4, keras 1.13.1, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/55935489
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------28---------------------------
+tensorflow 2, cudnn 7.6, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/53727997
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------29---------------------------
+cudnn 7.0.4, tensorflow 1.5, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/49465509
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------30---------------------------
+ubuntu 16, python 3.docs, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/50053286
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------31---------------------------
+cudnn 3, tensorflow 0.6, no, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/34491273
+----------------------------------------------------------
+----------------------------32---------------------------
+cudnn 7.6.5, cuda 10.1, yes, confidence: 6, probability: 6/6
+positive posts: 
+https://stackoverflow.com/questions/58143787
+https://stackoverflow.com/questions/61357131
+https://stackoverflow.com/questions/64476112
+https://stackoverflow.com/questions/63102518
+https://stackoverflow.com/questions/63440029
+https://stackoverflow.com/questions/65101591
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------33---------------------------
+ubuntu 352.63, tensorflow 352.63, no, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/38055383
+----------------------------------------------------------
+----------------------------34---------------------------
+tensorflow 1.12, cudnn 7.1.4, yes, confidence: 2, probability: 2/2
+positive posts: 
+https://stackoverflow.com/questions/50622526
+https://stackoverflow.com/questions/53727997
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------35---------------------------
+tensorboard 0.4, tensorflow 1.4, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/47654025
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------36---------------------------
+wxpython 4, python 3.4, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/49321789
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------37---------------------------
+tensorflow 1.6, cudnn 9.3, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/49283127
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------38---------------------------
+python 3.5.2, tensorflow 0.12, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/40899749
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------39---------------------------
+numpy 1.19.5, pandas 1.1.5, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/67923439
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------40---------------------------
+tensorflow 352.63, cuda 7.5, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/39090014
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------41---------------------------
+python 3.3, numpy 1.6.3, no, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/14442107
+----------------------------------------------------------
+----------------------------42---------------------------
+subprocess 48.6, python 8.09, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/63530619
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------43---------------------------
+cuda 11, ubuntu 20.4, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/64458576
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------44---------------------------
+tensorflow 3.6, python 3.7, no, confidence: 2, probability: 2/2
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/54886203
+https://stackoverflow.com/questions/54955702
+----------------------------------------------------------
+----------------------------45---------------------------
+cuda 10.1, tensorflow 1.13, yes, confidence: 1, probability: 2/3
+positive posts: 
+https://stackoverflow.com/questions/55340017
+https://stackoverflow.com/questions/55835626
+negative posts: 
+https://stackoverflow.com/questions/55028552
+----------------------------------------------------------
+----------------------------46---------------------------
+numpy 1.8.1rc1, scipy 1.19.1, no, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/45703036
+----------------------------------------------------------
+----------------------------47---------------------------
+pandas 0.20.3, python 3.5.2, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/47974243
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------48---------------------------
+ubuntu 1.1, python 3.8.2, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/61703923
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------49---------------------------
+numpy 1.16.5, python 2, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/68886571
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------50---------------------------
+ubuntu 12.10, cuda 5, yes, confidence: 2, probability: 2/2
+positive posts: 
+https://stackoverflow.com/questions/13062766
+https://stackoverflow.com/questions/15647164
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------51---------------------------
+numpy 1.16.4, tensorflow 1.14, yes, confidence: 2, probability: 2/2
+positive posts: 
+https://stackoverflow.com/questions/61817557
+https://stackoverflow.com/questions/62225269
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------52---------------------------
+ubuntu 16.04, cuda 9.1, no, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/53345147
+----------------------------------------------------------
+----------------------------53---------------------------
+python 3.7, tensorflow 2.3, no, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/63428708
+----------------------------------------------------------
+----------------------------54---------------------------
+tensorflow 3, cuda 3.5, no, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/42733611
+----------------------------------------------------------
+----------------------------55---------------------------
+python 3.7.3, tensorflow 1.13.1, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/56893796
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------56---------------------------
+cuda 3, tensorflow 0.12, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/40899749
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------57---------------------------
+tensorflow 2.4, cuda 11, yes, confidence: 7, probability: 7/7
+positive posts: 
+https://stackoverflow.com/questions/58143787
+https://stackoverflow.com/questions/65432123
+https://stackoverflow.com/questions/65548441
+https://stackoverflow.com/questions/65737458
+https://stackoverflow.com/questions/66669925
+https://stackoverflow.com/questions/66669998
+https://stackoverflow.com/questions/67986815
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------58---------------------------
+wxpython 2.8.10, python 2.6, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/6426841
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------59---------------------------
+numpy 1.6.3, python 3.3, no, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/14442107
+----------------------------------------------------------
+----------------------------60---------------------------
+keras 2.1.5, tensorflow 1.6, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/49430706
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------61---------------------------
+cuda 11.3, tensorflow 8.2.1, no, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/68817506
+----------------------------------------------------------
+----------------------------62---------------------------
+keras 2, ubuntu 0.4, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/44973235
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------63---------------------------
+numpy 1.16.2, python 3.7.3, yes, confidence: 2, probability: 2/2
+positive posts: 
+https://stackoverflow.com/questions/56811337
+https://stackoverflow.com/questions/55989681
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------64---------------------------
+python 3.6.8, ubuntu 18.04.3, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/58009133
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------65---------------------------
+cuda 110, tensorflow 1.15, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/65619544
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------66---------------------------
+python 2.7.6, ubuntu 14.04, yes, confidence: 0, probability: 2/4
+positive posts: 
+https://stackoverflow.com/questions/28271244
+https://stackoverflow.com/questions/43650802
+negative posts: 
+https://stackoverflow.com/questions/23529790
+https://stackoverflow.com/questions/23676364
+----------------------------------------------------------
+----------------------------67---------------------------
+bazel 1.5, ubuntu 17.04, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/44482203
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------68---------------------------
+tensorflow 2.4.1, python 3.7.10, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/67701963
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------69---------------------------
+ubuntu 14.04, cudnn 5.1, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/39090014
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------70---------------------------
+ubuntu 20.04, cuda 11, yes, confidence: 2, probability: 2/2
+positive posts: 
+https://stackoverflow.com/questions/64458576
+https://stackoverflow.com/questions/6622751
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------71---------------------------
+cuda 7, cudnn 7.3.1, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/54922009
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------72---------------------------
+ubuntu 1.6ghz, python 2.5.2, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/1469525
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------73---------------------------
+python 2, tensorflow 16, yes, confidence: 6, probability: 7/8
+positive posts: 
+https://stackoverflow.com/questions/24843218
+https://stackoverflow.com/questions/28783870
+https://stackoverflow.com/questions/49972135
+https://stackoverflow.com/questions/61589848
+https://stackoverflow.com/questions/9183597
+https://stackoverflow.com/questions/9620048
+https://stackoverflow.com/questions/13436167
+negative posts: 
+https://stackoverflow.com/questions/24064783
+----------------------------------------------------------
+----------------------------74---------------------------
+ubuntu 20.04, python 1.10.10, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/62459481
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------75---------------------------
+python 2.5, ubuntu 8.04, yes, confidence: 2, probability: 2/2
+positive posts: 
+https://stackoverflow.com/questions/214601
+https://stackoverflow.com/questions/7487249
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------76---------------------------
+ubuntu 16.04, cuda 367.48, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/40261728
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------77---------------------------
+ubuntu 8.10, python 2.5.2, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/410213
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------78---------------------------
+ubuntu 11.04, cuda 4, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/6512887
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------79---------------------------
+flask 0.9, python 3.3, no, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/18719234
+----------------------------------------------------------
+----------------------------80---------------------------
+python 3.8.7, tensorflow 2.4.1, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/66066262
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------81---------------------------
+tensorflow 8, python 3.6.0b2, no, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/40797568
+----------------------------------------------------------
+----------------------------82---------------------------
+python 2.3, ubuntu 8.04, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/214601
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------83---------------------------
+tensorflow 2, cudnn 7.6.3, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/58143787
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------84---------------------------
+cudnn 7.1.2, cuda 9.1, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/54922009
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------85---------------------------
+python 3.5.2, ubuntu 16, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/50053286
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------86---------------------------
+cuda 11.1, pytorch 1.8.1, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/67471798
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------87---------------------------
+python 2.7, ubuntu 14.04, yes, confidence: 3, probability: 5/7
+positive posts: 
+https://stackoverflow.com/questions/40981144
+https://stackoverflow.com/questions/41971754
+https://stackoverflow.com/questions/29394684
+https://stackoverflow.com/questions/35139786
+https://stackoverflow.com/questions/36027029
+negative posts: 
+https://stackoverflow.com/questions/41092808
+https://stackoverflow.com/questions/33202506
+----------------------------------------------------------
+----------------------------88---------------------------
+python 3.5, tensorflow 3.8, no, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/60526751
+----------------------------------------------------------
+----------------------------89---------------------------
+python 2.6, numpy 10.4, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/3173790
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------90---------------------------
+tfds 4, tensorflow 1.15, no, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/65795196
+----------------------------------------------------------
+----------------------------91---------------------------
+python 3.7, pytorch 2.81, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/60530736
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------92---------------------------
+tensorflow 1.8, cuda 8, yes, confidence: 2, probability: 2/2
+positive posts: 
+https://stackoverflow.com/questions/50311325
+https://stackoverflow.com/questions/51782716
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------93---------------------------
+tensorflow 1.15, cuda 110, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/65619544
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------94---------------------------
+python 2.6, ubuntu 6, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/4050558
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------95---------------------------
+ubuntu 2, python 2.6, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/979881
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------96---------------------------
+ubuntu 16.04, scipy 2.3, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/40815512
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------97---------------------------
+python 3.5.2, cuda 8, yes, confidence: 1, probability: 2/3
+positive posts: 
+https://stackoverflow.com/questions/40899749
+https://stackoverflow.com/questions/46940714
+negative posts: 
+https://stackoverflow.com/questions/50311325
+----------------------------------------------------------
+----------------------------98---------------------------
+ubuntu 4.7, cuda 5.5, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/21075523
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------99---------------------------
+python 3, numpy 1.14.6, yes, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/57734033
+negative posts: 
+https://stackoverflow.com/questions/
+----------------------------------------------------------
+----------------------------100---------------------------
+tensorflow 1.11, keras 2.2.4, no, confidence: 1, probability: 1/1
+positive posts: 
+https://stackoverflow.com/questions/
+negative posts: 
+https://stackoverflow.com/questions/53557408
+----------------------------------------------------------

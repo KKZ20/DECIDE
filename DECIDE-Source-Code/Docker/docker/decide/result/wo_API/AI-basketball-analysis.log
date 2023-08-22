@@ -1,0 +1,28 @@
+/data/home/zzk/workspace/zzk/Benchmark/projects/AI-basketball-analysis/app.py
+/data/home/zzk/workspace/zzk/Benchmark/projects/AI-basketball-analysis/src/config.py
+/data/home/zzk/workspace/zzk/Benchmark/projects/AI-basketball-analysis/src/app_helper.py
+/data/home/zzk/workspace/zzk/Benchmark/projects/AI-basketball-analysis/src/utils.py
+/data/home/zzk/workspace/zzk/Benchmark/projects/AI-basketball-analysis/OpenPose/openpose/__init__.py
+Not in virtualenv
+cuDNN not found!
+bazel not found
+......................................................................................
+Current library: flask (v2.0.0)
+Knowledge base: {'library': {'zappa': [('0.51', 'no', ['68393305'])]}, 'hardware': {}, 'programming_language': {}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current library: numpy (v1.17.4)
+Knowledge base: {'library': {'tensorflow': [('1.14', 'no', ['61817557'])]}, 'hardware': {}, 'programming_language': {'python': [('3.5', 'yes', ['56972228']), ('3', 'yes', ['57734033'])]}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current library: tensorflow (v1.15.2)
+Knowledge base: {'library': {'tfds': [('2.1', 'yes', ['68263473']), ('3.2.1', 'yes', ['65795196']), ('4', 'no', ['65795196'])], 'keras': [('2.3.1', 'yes', ['67171045'])]}, 'hardware': {'cuda': [('110', 'yes', ['65619544']), ('10', 'yes', ['59982494', '67734574', '60077642'])]}, 'programming_language': {'python': [('3.7', 'yes', ['61594971']), ('3.8', 'no', ['61594971'])]}, 'operating_system': {'ubuntu': [('16.0.4', 'yes', ['59108370'])]}, 'tool': {}}
+--------------------------------DC ISSUE-----------------------------------------
+ERROR: Local tensorflow (v1.15.2) is not compatible with cuda (v11.2) (0)
+-----------------------------------END-------------------------------------------
+--------------------------------DC ISSUE-----------------------------------------
+ERROR: Local tensorflow (v1.15.2) may not be compatible with ubuntu (v18.04.1) (1)
+Recommand StackOverflow Posts: 
+https://stackoverflow.com/questions/59108370
+-----------------------------------END-------------------------------------------
+opencv-python-headless is not installed in local
+image is not installed in local
+scipy is not installed in local

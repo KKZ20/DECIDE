@@ -1,0 +1,22 @@
+{
+    "library": {
+        "bazel": "",
+        "gcc": "7.5.0",
+        "glibc": "2.31"
+    },
+    "driver": {
+        "cuda": "11.2",
+        "cudnn": "8.1"
+    },
+    "runtime": {
+        "python": "3.6"
+    },
+    "operating_system": {
+        "ubuntu": "18.04",
+        "conda": "4.10.3",
+        "virtualenv": ""
+    },
+    "hardware": {
+        "bit": "64-bit"
+    }
+}

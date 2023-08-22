@@ -1,0 +1,5 @@
+We are applying for Functional, Reusable, and Available badges.
+
+(1) Functional: Our artifact contain comprehensive code to reproduce all experimental results in our paper.
+(2) Reusable: Besides well-documented code to reproduce all experimental results, our artifact contain fully functional code to reproduce DECIDE, an automatic version incompatability detection tool for DL projects.
+(3) Available: Our artifact has been made public on GitHub.

@@ -1,0 +1,119 @@
+/data/home/zzk/workspace/zzk/Benchmark/projects/AI-basketball-analysis/app.py
+/data/home/zzk/workspace/zzk/Benchmark/projects/AI-basketball-analysis/src/config.py
+/data/home/zzk/workspace/zzk/Benchmark/projects/AI-basketball-analysis/src/app_helper.py
+/data/home/zzk/workspace/zzk/Benchmark/projects/AI-basketball-analysis/src/utils.py
+/data/home/zzk/workspace/zzk/Benchmark/projects/AI-basketball-analysis/OpenPose/openpose/__init__.py
+Not in virtualenv
+cuDNN not found!
+bazel not found
+......................................................................................
+Current library: flask (v2.0.0)
+Knowledge base: {'library': {'zappa': [('0.51', 'no', ['68393305'])]}, 'hardware': {}, 'programming_language': {}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current library: numpy (v1.17.4)
+Knowledge base: {'library': {'tensorflow': [('1.14', 'no', ['61817557'])]}, 'hardware': {}, 'programming_language': {'python': [('3.5', 'yes', ['56972228']), ('3', 'yes', ['57734033'])]}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current library: tensorflow (v1.15.2)
+Knowledge base: {'library': {'tfds': [('2.1', 'yes', ['68263473']), ('3.2.1', 'yes', ['65795196']), ('4', 'no', ['65795196'])], 'keras': [('2.3.1', 'yes', ['67171045'])]}, 'hardware': {'cuda': [('110', 'yes', ['65619544']), ('10', 'yes', ['59982494', '67734574', '60077642'])]}, 'programming_language': {'python': [('3.7', 'yes', ['61594971']), ('3.8', 'no', ['61594971'])]}, 'operating_system': {'ubuntu': [('16.0.4', 'yes', ['59108370'])]}, 'tool': {}}
+--------------------------------DC ISSUE-----------------------------------------
+ERROR: Local tensorflow (v1.15.2) is not compatible with cuda (v11.2) (0)
+-----------------------------------END-------------------------------------------
+--------------------------------DC ISSUE-----------------------------------------
+ERROR: Local tensorflow (v1.15.2) may not be compatible with python (v3.6) (4)
+Recommand StackOverflow Posts: 
+https://stackoverflow.com/questions/61594971
+-----------------------------------END-------------------------------------------
+--------------------------------DC ISSUE-----------------------------------------
+ERROR: Local tensorflow (v1.15.2) may not be compatible with ubuntu (v18.04.1) (1)
+Recommand StackOverflow Posts: 
+https://stackoverflow.com/questions/59108370
+-----------------------------------END-------------------------------------------
+opencv-python-headless is not installed in local
+image is not installed in local
+scipy is not installed in local
+++++++++++++++++++++++++++++API CHECK++++++++++++++++++++++++++++
+......................................................................................
+Current API: np.arange
+Knowledge base: {'library': {}, 'hardware': {}, 'programming_language': {'python': [('3', 'yes', ['8097594']), ('2', 'yes', ['8097594']), ('6.65', 'yes', ['4618954'])]}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: os.path.join
+Knowledge base: {'library': {'tensorflow': [('8', 'no', ['6766266'])]}, 'hardware': {}, 'programming_language': {'python': [('9', 'no', ['47748008']), ('3', 'no', ['6766266']), ('3.4', 'no', ['2909998'])]}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: os.path.exists
+Knowledge base: {'library': {}, 'hardware': {}, 'programming_language': {'python': [('3', 'yes', ['44661513']), ('2', 'no', ['44661513'])]}, 'operating_system': {}, 'tool': {}}
+--------------------------------DC ISSUE-----------------------------------------
+ERROR: Local os.path.exists is not compatible with python (v3.6) (3)
+-----------------------------------END-------------------------------------------
+......................................................................................
+Current API: np.dot
+Knowledge base: {'library': {}, 'hardware': {}, 'programming_language': {'python': [('3.5', 'yes', ['60490740', '4151251'])]}, 'operating_system': {}, 'tool': {}}
+--------------------------------DC ISSUE-----------------------------------------
+ERROR: np.dot may not be compatible with python (v3.6) (1)
+Recommand StackOverflow Posts: 
+https://stackoverflow.com/questions/60490740
+https://stackoverflow.com/questions/4151251
+-----------------------------------END-------------------------------------------
+......................................................................................
+Current API: np.array
+Knowledge base: {'library': {'numpy': [('0.325', 'yes', ['67695754']), ('8.99849401', 'yes', ['46085625']), ('21.87729639', 'yes', ['46085625'])]}, 'hardware': {}, 'programming_language': {'python': [('3', 'no', ['3877247'])]}, 'operating_system': {}, 'tool': {}}
+--------------------------------DC ISSUE-----------------------------------------
+ERROR: Local np.array is not compatible with python (v3.6) (2)
+Recommand StackOverflow Posts: 
+https://stackoverflow.com/questions/3877247
+-----------------------------------END-------------------------------------------
+......................................................................................
+Current API: matplotlib.pyplot
+Knowledge base: {'library': {}, 'hardware': {}, 'programming_language': {'python': [('3', 'yes', ['52500781']), ('2.7.5', 'yes', ['42448458'])]}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: cap.get
+Knowledge base: {'library': {}, 'hardware': {}, 'programming_language': {'python': [('2.7.9', 'yes', ['27890523'])]}, 'operating_system': {}, 'tool': {}}
+--------------------------------DC ISSUE-----------------------------------------
+ERROR: cap.get may not be compatible with python (v3.6) (1)
+Recommand StackOverflow Posts: 
+https://stackoverflow.com/questions/27890523
+-----------------------------------END-------------------------------------------
+......................................................................................
+Current API: sess.run
+Knowledge base: {'library': {'tensorflow': [('1', 'yes', ['64942713'])]}, 'hardware': {}, 'programming_language': {}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: app.run
+Knowledge base: {'library': {}, 'hardware': {}, 'programming_language': {'python': [('2.6', 'yes', ['50312701'])]}, 'operating_system': {}, 'tool': {}}
+--------------------------------DC ISSUE-----------------------------------------
+ERROR: app.run may not be compatible with python (v3.6) (1)
+Recommand StackOverflow Posts: 
+https://stackoverflow.com/questions/50312701
+-----------------------------------END-------------------------------------------
+......................................................................................
+Current API: sys.platform
+Knowledge base: {'library': {}, 'hardware': {}, 'programming_language': {}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: scipy.optimize.curve_fit
+Knowledge base: {'library': {'scipy': [('0.9', 'yes', ['4308561'])]}, 'hardware': {}, 'programming_language': {}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: np.linalg.norm
+Knowledge base: {'library': {'numpy': [('1.9', 'yes', ['7741976'])]}, 'hardware': {}, 'programming_language': {}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: sys.path.append
+Knowledge base: {'library': {}, 'hardware': {}, 'programming_language': {'python': [('3', 'yes', ['5025697'])]}, 'operating_system': {}, 'tool': {}}
+--------------------------------DC ISSUE-----------------------------------------
+ERROR: sys.path.append may not be compatible with python (v3.6) (1)
+Recommand StackOverflow Posts: 
+https://stackoverflow.com/questions/5025697
+-----------------------------------END-------------------------------------------
+......................................................................................
+Current API: os.remove
+Knowledge base: {'library': {}, 'hardware': {}, 'programming_language': {'python': [('3', 'no', ['320862'])]}, 'operating_system': {}, 'tool': {}}
+--------------------------------DC ISSUE-----------------------------------------
+ERROR: Local os.remove is not compatible with python (v3.6) (2)
+Recommand StackOverflow Posts: 
+https://stackoverflow.com/questions/320862
+-----------------------------------END-------------------------------------------
+......................................................................................
+Current API: sys.path
+Knowledge base: {'library': {}, 'hardware': {}, 'programming_language': {'python': [('2.4.1', 'no', ['62923810']), ('2.7', 'yes', ['9553246', '9727418', '10224639', '54100770']), ('26', 'yes', ['9397661']), ('2.2', 'yes', ['6949048']), ('22.dll', 'yes', ['6949048']), ('1.2.3c1', 'yes', ['3062818']), ('6.1.2', 'no', ['1538763']), ('2.6', 'yes', ['1220664', '9397661', '9553246', '10224639']), ('2', 'no', ['31467579', '65977630'])]}, 'operating_system': {}, 'tool': {}}
+......................................................................................
+Current API: os.path
+Knowledge base: {'library': {}, 'hardware': {}, 'programming_language': {'python': [('3.5', 'yes', ['37095733']), ('2.7', 'yes', ['3430395']), ('3', 'yes', ['3430395', '4119176', '44661513']), ('3.4', 'no', ['45223014', '51149057'])]}, 'operating_system': {}, 'tool': {}}
+--------------------------------DC ISSUE-----------------------------------------
+ERROR: Local os.path is not compatible with python (v3.6) (3)
+-----------------------------------END-------------------------------------------
