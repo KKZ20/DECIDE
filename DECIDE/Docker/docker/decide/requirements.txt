@@ -1,6 +1,0 @@
-neo4j
-gunicorn
-astpretty==3.0.0
-packaging==23.1
-py2neo==2021.2.3
-typed_ast==1.5.5

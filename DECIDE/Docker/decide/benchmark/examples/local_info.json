@@ -1,0 +1,22 @@
+{
+    "library": {
+        "bazel": "",
+        "gcc": "",
+        "glibc": ""
+    },
+    "driver": {
+        "cuda": "",
+        "cudnn": ""
+    },
+    "runtime": {
+        "python": ""
+    },
+    "operating_system": {
+        "ubuntu": "",
+        "conda": "",
+        "virtualenv": ""
+    },
+    "hardware": {
+        "bit": ""
+    }
+}

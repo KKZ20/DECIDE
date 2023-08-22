@@ -16,8 +16,8 @@ parser.add_argument('-p', '--project', default=None, help="The root path of the 
 def main():
     # reading arguments
     args = parser.parse_args()
-    req_file_path = f'./experiment/{args.name}/requirements.txt'
-    local_file_path = f'./experiment/{args.name}/local_info.json'
+    req_file_path = f'./benchmark/{args.name}/requirements.txt'
+    local_file_path = f'./benchmark/{args.name}/local_info.json'
 
     if args.requirements is not None:
         req_file_path = args.requirements
