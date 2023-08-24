@@ -1,0 +1,186 @@
+[
+    {
+        "TagName": "bazel",
+        "Count": "2731"
+    },
+    {
+        "TagName": "anaconda",
+        "Count": "13637"
+    },
+    {
+        "TagName": "conda",
+        "Count": "6590"
+    },
+    {
+        "TagName": "miniconda",
+        "Count": "757"
+    },
+    {
+        "TagName": "anaconda3",
+        "Count": "488"
+    },
+    {
+        "TagName": "cuda",
+        "Count": "13648"
+    },
+    {
+        "TagName": "cudnn",
+        "Count": "337"
+    },
+    {
+        "TagName": "gpu",
+        "Count": "8042"
+    },
+    {
+        "TagName": "keras",
+        "Count": "39570"
+    },
+    {
+        "TagName": "tf.keras",
+        "Count": "1923"
+    },
+    {
+        "TagName": "numpy",
+        "Count": "102522"
+    },
+    {
+        "TagName": "nvidia",
+        "Count": "3313"
+    },
+    {
+        "TagName": "pip",
+        "Count": "20660"
+    },
+    {
+        "TagName": "pip3",
+        "Count": "12"
+    },
+    {
+        "TagName": "python",
+        "Count": "1960317"
+    },
+    {
+        "TagName": "python-2.x",
+        "Count": "2812"
+    },
+    {
+        "TagName": "python-2.6",
+        "Count": "1324"
+    },
+    {
+        "TagName": "python-2.1",
+        "Count": "5"
+    },
+    {
+        "TagName": "python-2.4",
+        "Count": "230"
+    },
+    {
+        "TagName": "python-2.5",
+        "Count": "381"
+    },
+    {
+        "TagName": "python-3.1",
+        "Count": "34"
+    },
+    {
+        "TagName": "python-2.7",
+        "Count": "95194"
+    },
+    {
+        "TagName": "python-3.x",
+        "Count": "314823"
+    },
+    {
+        "TagName": "python-2.3",
+        "Count": "32"
+    },
+    {
+        "TagName": "python-3.2",
+        "Count": "335"
+    },
+    {
+        "TagName": "python-3.3",
+        "Count": "1150"
+    },
+    {
+        "TagName": "python-2.2",
+        "Count": "18"
+    },
+    {
+        "TagName": "python-3.4",
+        "Count": "2592"
+    },
+    {
+        "TagName": "python-3.5",
+        "Count": "3437"
+    },
+    {
+        "TagName": "python-3.6",
+        "Count": "5629"
+    },
+    {
+        "TagName": "python-3.7",
+        "Count": "4068"
+    },
+    {
+        "TagName": "python-3.8",
+        "Count": "2121"
+    },
+    {
+        "TagName": "python-3.9",
+        "Count": "900"
+    },
+    {
+        "TagName": "python-3.10",
+        "Count": "356"
+    },
+    {
+        "TagName": "scikit-learn",
+        "Count": "25937"
+    },
+    {
+        "TagName": "scipy",
+        "Count": "19659"
+    },
+    {
+        "TagName": "tensorboard",
+        "Count": "1948"
+    },
+    {
+        "TagName": "tensorflow",
+        "Count": "76980"
+    },
+    {
+        "TagName": "tensorflow-gpu",
+        "Count": "429"
+    },
+    {
+        "TagName": "tensorflow2.0",
+        "Count": "5179"
+    },
+    {
+        "TagName": "tensorflow2.x",
+        "Count": "262"
+    },
+    {
+        "TagName": "tensorflow1.15",
+        "Count": "83"
+    },
+    {
+        "TagName": "tensorflow2",
+        "Count": "48"
+    },
+    {
+        "TagName": "tensorflow1.12",
+        "Count": "2"
+    },
+    {
+        "TagName": "torch",
+        "Count": "1821"
+    },
+    {
+        "TagName": "pytorch",
+        "Count": "17369"
+    }
+]

@@ -1,0 +1,12 @@
+Library (33): 'wxpython', 'tensorflow', 'tensorflow-gpu', 'tfds', 'tensorboard', 'pytorch', 'torchvision', 
+'torchaudio', 'jetpack', 'numpy', 'scipy', 'scikit-learn', 'emr', 'pandas', 'keras', 'flask', 'tensorflow-transform', 
+'zappa', 'subprocess', 'sqlalchemy', 'postgres', 'psycopg', 'flask-sqlalchemy', 'airflow', 'fftw', 'blender', 'coremltools', 'pymysql', 
+'tensorflow-core-platform', 'bazel', 'glibc', 'gcc', 'gzip'
+
+Runtime (1): 'python'
+
+OS / Container (9): 'ubuntu', 'windows', 'macOS', 'centos', 'debian', 'android', 'ios', 'anaconda', 'docker'
+
+Driver (2): 'cuda', 'cudnn'
+
+Hardware (3): 'apple m1', 'arm', 'amd'
