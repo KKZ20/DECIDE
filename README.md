@@ -1,5 +1,5 @@
 
-# Knowledge-based Version Incompatibility Detection for Deep Learning
+# Knowledge-based Version Incompatibility Detection for Deep Learning [![](https://img.shields.io/badge/arXiv-2308.13276-b31b1b.svg)](https://arxiv.org/abs/2308.13276)
 
 This repository contains data and code of DECIDE, a version incompatibility detection tool based on pre-trained language models proposed in *"Knowledge-based Version Incompatibility Detection for Deep Learning"*. Meanwhile, this repository also contains data and code to replicate experiment results in the paper. This repository has been made publicly available on GitHub to support Open Science. 
 
@@ -91,3 +91,12 @@ $ python compare.py
 In RQ5, we evaluate three different knowledge consolidation strategies (*majority vote*, *weighted majority vote*, and *vote by loss*). We randomly sampled 228  of the 558 relations which were consolidated from multiple predicted relations in the knowledge. We present the manually labeled results in `Experiments/RQ5/RQ5-ALL.xlsx`. Note that to fully evaluate the knowledge consolidation strategies, we excluded 25 incorrect relations that were caused by the mismatch between component names and versions. Thus, we get 203 relations.
 
 Overall, there are 193 correct relations using majority vote (193 / 203 = 95.1%), 190 correct relations using majority vote (193 / 203 = 93.6%), and 186 correct relations using majority vote (186 / 203 = 91.6%).
+
+## Citation
+```
+@article{zhao2023knowledge,
+  title={Knowledge-Based Version Incompatibility Detection for Deep Learning},
+  author={Zhao, Zhongkai and Kou, Bonan and Ibrahim, Mohamed Yilmaz and Chen, Muhao and Zhang, Tianyi},
+  journal={arXiv preprint arXiv:2308.13276},
+  year={2023}
+}
