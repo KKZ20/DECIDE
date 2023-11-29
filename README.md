@@ -1,5 +1,5 @@
 
-# Knowledge-based Version Incompatibility Detection for Deep Learning [![](https://img.shields.io/badge/arXiv-2308.13276-b31b1b.svg)](https://arxiv.org/abs/2308.13276)
+# Knowledge-based Version Incompatibility Detection for Deep Learning [![](https://img.shields.io/badge/arXiv-2308.13276-b31b1b.svg)](https://arxiv.org/abs/2308.13276) [![DOI](https://zenodo.org/badge/681461566.svg)](https://zenodo.org/doi/10.5281/zenodo.10211987)
 
 This repository contains data and code of DECIDE, a version incompatibility detection tool based on pre-trained language models proposed in *"Knowledge-based Version Incompatibility Detection for Deep Learning"*. Meanwhile, this repository also contains data and code to replicate experiment results in the paper. This repository has been made publicly available on GitHub to support Open Science. 
 
