@@ -94,9 +94,10 @@ Overall, there are 193 correct relations using majority vote (193 / 203 = 95.1%)
 
 ## Citation
 ```
-@article{zhao2023knowledge,
+@inproceedings{zhao2023knowledge,
   title={Knowledge-Based Version Incompatibility Detection for Deep Learning},
   author={Zhao, Zhongkai and Kou, Bonan and Ibrahim, Mohamed Yilmaz and Chen, Muhao and Zhang, Tianyi},
-  journal={arXiv preprint arXiv:2308.13276},
+  booktitle={Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering},
+  pages={708--719},
   year={2023}
 }
